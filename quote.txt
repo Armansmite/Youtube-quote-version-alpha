@@ -1,0 +1,586 @@
+{"qoute" : "It is cowardice to perceive what is right but not to do it." , "writer" : "Confucius", "subject" : "Courage", "hook" : "You're the problem"}
+{"qoute" : "Courage without conscience is a wild beast." , "writer" : "Robert G. Ingersoll", "subject" : "Courage", "hook" : "Brave but evil?"}
+{"qoute" : "Even the tiniest initial deviation from the truth is subsequently multiplied a thousandfold." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "One lie ruins all"}
+{"qoute" : "If anyone can demonstrate to me and convince me that I am thinking or acting incorrectly, I will happily change; for I wish to know the truth, which never caused injury to anyone." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "Most won't do this"}
+{"qoute" : "The growth of wisdom may be measured exactly by the diminution of ill temper." , "writer" : "Friedrich Wilhelm Nietzsche", "subject" : "Philosophy", "hook" : "Angry? You're dumb"}
+{"qoute" : "A wise man sees as much as he ought, not as much as he can." , "writer" : "Michel de Montaigne", "subject" : "Philosophy", "hook" : "Stop looking at everything"}
+{"qoute" : "A heretic is a man who sees with his own eyes." , "writer" : "Gotthold Ephraim Lessing", "subject" : "Philosophy", "hook" : "Are you a heretic?"}
+{"qoute" : "We have the right not to tolerate the intolerant." , "writer" : "Karl Popper", "subject" : "Politics", "hook" : "Stop being nice to them"}
+{"qoute" : "The heart of man is made to reconcile the most glaring contradictions." , "writer" : "David Hume", "subject" : "Philosophy", "hook" : "You're full of opposites"}
+{"qoute" : "If a man does not keep pace with his companions, perhaps it is because he hears a different drummer." , "writer" : "Henry David Thoreau", "subject" : "Philosophy", "hook" : "Why you don't fit in"}
+{"qoute" : "We make a living by what we get, but we make a life by what we give." , "writer" : "Winston Churchill", "subject" : "Philosophy", "hook" : "Giving > getting"}
+{"qoute" : "Anticipate charity by preventing poverty... This is the highest rung and summit of the golden ladder of charity." , "writer" : "Maimonides", "subject" : "Philosophy", "hook" : "Stop poverty before it starts"}
+{"qoute" : "Nothing is more costly, nothing is more sterile, than vengeance." , "writer" : "Winston Churchill", "subject" : "Philosophy", "hook" : "Revenge is a trap"}
+{"qoute" : "Reject your sense of injury and the injury itself disappears." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "Drop it and it's gone"}
+{"qoute" : "The wise forgive but do not forget." , "writer" : "Thomas Szasz", "subject" : "Philosophy", "hook" : "Forgive? Never forget"}
+{"qoute" : "Forgiveness is the economy of the heart... saves the expense of anger." , "writer" : "Hannah More", "subject" : "Philosophy", "hook" : "Anger is expensive"}
+{"qoute" : "Things are not what they seem; nor are they otherwise." , "writer" : "Shurangama Sutra", "subject" : "Philosophy", "hook" : "Nothing is real"}
+{"qoute" : "A person living in a state of delusion is called an ordinary being. But an enlightened person is called a Buddha." , "writer" : "Nichiren", "subject" : "Philosophy", "hook" : "You're living a lie"}
+{"qoute" : "Fools pursue external desires and fall into the wide pit of mortality. The wise understand the meaning of immortality." , "writer" : "Upanishads", "subject" : "Philosophy", "hook" : "Your desires will kill you"}
+{"qoute" : "It may even be considered better... to destroy what touches us closely for the sake of upholding the truth." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "Sacrifice friends for truth?"}
+{"qoute" : "Rather than continuing to seek the truth, simply let go of your views." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Stop searching, start seeing"}
+{"qoute" : "Pleasure can be supported by an illusion; but happiness rests upon truth." , "writer" : "Sébastien-Roch Nicolas de Chamfort", "subject" : "Philosophy", "hook" : "Your joy is fake"}
+{"qoute" : "The fundamental delusion of humanity is to suppose that I am here and you are out there." , "writer" : "Yasutani Hakuun Roshi", "subject" : "Philosophy", "hook" : "You and I are one"}
+{"qoute" : "One does not become enlightened by imagining figures of light, but by making the darkness conscious." , "writer" : "Carl Gustav Jung", "subject" : "Philosophy", "hook" : "Face your dark side"}
+{"qoute" : "The only certainty is that there is nothing certain." , "writer" : "Pliny the Elder", "subject" : "Philosophy", "hook" : "Nothing is sure"}
+{"qoute" : "It is only with the heart that one can see rightly; what is essential is invisible to the eye." , "writer" : "Antoine de Saint-Exupéry", "subject" : "Philosophy", "hook" : "Eyes lie, heart sees"}
+{"qoute" : "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." , "writer" : "Arthur Schopenhauer", "subject" : "Philosophy", "hook" : "Truth wins slowly"}
+{"qoute" : "Conceptions of good and bad are all mental speculations. Therefore, it is erroneous to say, 'this is good' and 'this is bad'." , "writer" : "Chaitanya", "subject" : "Philosophy", "hook" : "Good and bad don't exist"}
+{"qoute" : "Life is not a series of gig lamps symmetrically arranged; life is a luminous halo." , "writer" : "Virginia Woolf", "subject" : "Philosophy", "hook" : "Life is glowing"}
+{"qoute" : "It is easy for us to forgive a child who fears the dark. The true sadness in life is when men fear the light." , "writer" : "Plato", "subject" : "Courage", "hook" : "Don't fear the light"}
+{"qoute" : "He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you." , "writer" : "Friedrich Wilhelm Nietzsche", "subject" : "Philosophy", "hook" : "Beware the abyss"}
+{"qoute" : "As we acquire more knowledge, things do not become more comprehensible, but more mysterious." , "writer" : "Albert Schweitzer", "subject" : "Philosophy", "hook" : "More knowledge, less answers"}
+{"qoute" : "Nobody, not even the poet, holds the secret of the world." , "writer" : "Federico García Lorca", "subject" : "Philosophy", "hook" : "No one knows the secret"}
+{"qoute" : "Consider, in good time, that you have something more divine in you than the mechanism of passion." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "You are divine inside"}
+{"qoute" : "I believe we are free, within limits, and yet there is an unseen hand, a guiding angel." , "writer" : "Rabindranath Tagore", "subject" : "Philosophy", "hook" : "You're not alone"}
+{"qoute" : "If we have listening ears, God speaks to us in our own language." , "writer" : "Mahatma Gandhi", "subject" : "Philosophy", "hook" : "God speaks your tongue"}
+{"qoute" : "A generous prayer is never presented in vain; the petitioner is always rewarded by some gracious visitation." , "writer" : "Robert Louis Stevenson", "subject" : "Philosophy", "hook" : "Prayer pays back"}
+{"qoute" : "God does not die when we cease to believe in a personal deity, but we die on the day when our lives cease to be illuminated by wonder." , "writer" : "Dag Hammarskjöld", "subject" : "Philosophy", "hook" : "Wonder keeps you alive"}
+{"qoute" : "The splendour of human life, I feel sure, is greater to those who are not dazzled by the divine radiance." , "writer" : "Bertrand Russell", "subject" : "Philosophy", "hook" : "Human life shines alone"}
+{"qoute" : "Human beings must be known to be loved; divine beings must be loved to be known." , "writer" : "Blaise Pascal", "subject" : "Philosophy", "hook" : "Love to know divine"}
+{"qoute" : "A comprehended God is no God." , "writer" : "St John Chrysostom", "subject" : "Philosophy", "hook" : "If you understand God, run"}
+{"qoute" : "So long as man remains free he strives for nothing so incessantly and so painfully as to find someone to worship." , "writer" : "Fyodor Dostoevsky", "subject" : "Politics", "hook" : "You need a master"}
+{"qoute" : "The act of divine worship is the inestimable privilege of man, the only created being who bows in humility and adoration." , "writer" : "Hosea Ballou", "subject" : "Philosophy", "hook" : "Worship is a gift"}
+{"qoute" : "As nations improve, so do their gods." , "writer" : "G.C. Lichtenberg", "subject" : "Politics", "hook" : "Better nation, better god"}
+{"qoute" : "Man is not only a contributory creature, but a total creature; he is the world itself." , "writer" : "John Donne", "subject" : "Philosophy", "hook" : "You are the whole world"}
+{"qoute" : "The soul can never be cut to pieces by any weapon, nor burned by fire, nor rotted by water." , "writer" : "Bhagavad Gita", "subject" : "Philosophy", "hook" : "Your soul is unbreakable"}
+{"qoute" : "Death is not extinguishing the light; it is putting out the lamp because dawn has come." , "writer" : "Rabindranath Tagore", "subject" : "Philosophy", "hook" : "Death is a sunrise"}
+{"qoute" : "This body is not a home but an inn, and that only briefly." , "writer" : "Seneca", "subject" : "Philosophy", "hook" : "Your body is a rental"}
+{"qoute" : "Death is as sure for that which is born, as birth is for that which is dead. Therefore do not grieve." , "writer" : "Bhagavad Gita", "subject" : "Philosophy", "hook" : "Don't cry over death"}
+{"qoute" : "Dying is a wild adventure, a thrilling gallop through the night of our unknowing." , "writer" : "Samuel Thoresby", "subject" : "Courage", "hook" : "Death is an adventure"}
+{"qoute" : "We are bound to our bodies like an oyster is to its shell." , "writer" : "Plato", "subject" : "Philosophy", "hook" : "You're stuck in a shell"}
+{"qoute" : "Why speak of 'death'? Don't make it into some great tragedy. The time has come for matter to be returned to elements." , "writer" : "Epictetus", "subject" : "Philosophy", "hook" : "Death is natural"}
+{"qoute" : "Set me free from wicked passions and heal my heart... that being inwardly cured, I may be made fit to love, courageous to suffer, steady to persevere." , "writer" : "Thomas à Kempis", "subject" : "Courage", "hook" : "Heal your heart first"}
+{"qoute" : "All will be well, and you shall see yourself that all things shall be well." , "writer" : "Mother Julian of Norwich", "subject" : "Philosophy", "hook" : "Everything is fine"}
+{"qoute" : "You have created us for Yourself, and our hearts are not stilled until they rest in You." , "writer" : "St Augustine of Hippo", "subject" : "Philosophy", "hook" : "You're restless for a reason"}
+{"qoute" : "Our prayers should be for a sound mind in a healthy body." , "writer" : "Juvenal", "subject" : "Philosophy", "hook" : "Pray for sanity"}
+{"qoute" : "A cheerful heart is a good medicine." , "writer" : "Proverbs", "subject" : "Philosophy", "hook" : "Laughter heals"}
+{"qoute" : "When health is absent, wisdom cannot reveal itself, art cannot manifest, strength cannot fight." , "writer" : "Herophilus", "subject" : "Philosophy", "hook" : "No health, no wisdom"}
+{"qoute" : "Love is the joy of the good, the wonder of the wise, the amazement of the gods." , "writer" : "Plato", "subject" : "Philosophy", "hook" : "Love is god-level"}
+{"qoute" : "Your task is not to seek love, but merely to seek and find all the barriers within yourself that you have built against love." , "writer" : "Jalal ud-Din Rumi", "subject" : "Philosophy", "hook" : "You block your own love"}
+{"qoute" : "Love grows by giving. The love we give away is the only love we keep." , "writer" : "Elbert Hubbard", "subject" : "Philosophy", "hook" : "Give love to keep it"}
+{"qoute" : "True compassion flows fast, as if we were wounded ourselves, yet without diminishing our strength." , "writer" : "Yukio Kurasama", "subject" : "Courage", "hook" : "Compassion is strength"}
+{"qoute" : "We can be spacious yet full of loving kindness; full of compassion, yet serene." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Be kind and calm"}
+{"qoute" : "How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving." , "writer" : "George Washington Carver", "subject" : "Philosophy", "hook" : "Tenderness takes you far"}
+{"qoute" : "I treat as good those who are good. I also treat as good those who are not good. In acting this way my own goodness increases." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Goodness grows by giving"}
+{"qoute" : "If your compassion does not include yourself, it is incomplete." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Love yourself too"}
+{"qoute" : "A friend is one before whom I may think aloud." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "True friend hears all"}
+{"qoute" : "My best friend is the man who, in wishing me well, wishes it for my sake." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "Friend wishes you well"}
+{"qoute" : "Friendship with oneself is all-important because without it one cannot be friends with anyone else." , "writer" : "Eleanor Roosevelt", "subject" : "Philosophy", "hook" : "Be your own friend first"}
+{"qoute" : "As yellow gold is tried in the fire, so the true bonds of friendship are seen in adversity." , "writer" : "Ovid", "subject" : "Courage", "hook" : "Tough times test friends"}
+{"qoute" : "Tell me who your friends are, and I will tell you who you are." , "writer" : "Ancient Assyrian Proverb", "subject" : "Philosophy", "hook" : "Friends define you"}
+{"qoute" : "The only way to have a friend is to be one." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "Be a friend first"}
+{"qoute" : "The greatest good you can do for another is not just to share your riches, but to reveal to him his own." , "writer" : "Benjamin Disraeli", "subject" : "Philosophy", "hook" : "Reveal their treasure"}
+{"qoute" : "What's bad for the swarm is bad for the bee." , "writer" : "Marcus Aurelius", "subject" : "Politics", "hook" : "We rise together"}
+{"qoute" : "He who receives a benefit should never forget it; he who bestows one should never remember it." , "writer" : "Pierre Charron", "subject" : "Philosophy", "hook" : "Give and forget"}
+{"qoute" : "Whatever you sow, you shall reap." , "writer" : "Galatians", "subject" : "Philosophy", "hook" : "You reap what you sow"}
+{"qoute" : "If you desire a lifetime's happiness, help someone else." , "writer" : "Chinese Proverb", "subject" : "Philosophy", "hook" : "Help others, be happy"}
+{"qoute" : "Keep your fears to yourself: share your courage with others." , "writer" : "Robert Louis Stevenson", "subject" : "Courage", "hook" : "Share courage, hide fear"}
+{"qoute" : "Genuine politics... is simply a matter of serving those around us." , "writer" : "Václav Havel", "subject" : "Politics", "hook" : "Serve, don't rule"}
+{"qoute" : "You will find, as you look back upon your life, that the moments that stand out are the moments when you have done things for others." , "writer" : "Henry Drummond", "subject" : "Philosophy", "hook" : "Helping others matters"}
+{"qoute" : "It is not in the nature of politics that the best men should be elected. The best men do not want to govern." , "writer" : "George MacDonald", "subject" : "Politics", "hook" : "Best avoid power"}
+{"qoute" : "The only ones among you who will be really happy are those who have sought and found how to serve." , "writer" : "Albert Schweitzer", "subject" : "Philosophy", "hook" : "Serve to be happy"}
+{"qoute" : "One of the greatest diseases is to be nobody to anybody." , "writer" : "Mother Teresa", "subject" : "Philosophy", "hook" : "Be somebody to someone"}
+{"qoute" : "Many waters cannot quench love, neither can floods drown it." , "writer" : "Song of Solomon", "subject" : "Philosophy", "hook" : "Love is unbreakable"}
+{"qoute" : "Of all the gods Love is the best friend of humankind, the helper and healer of all ills." , "writer" : "Plato", "subject" : "Philosophy", "hook" : "Love heals all"}
+{"qoute" : "The wise man has no mind of his own. He assumes the mind of humankind." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Think for all"}
+{"qoute" : "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive." , "writer" : "14th Dalai Lama", "subject" : "Philosophy", "hook" : "Love is survival"}
+{"qoute" : "A human being is part of the whole, called by us 'the universe'. Our task must be to widen our circle of compassion." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Widen your compassion"}
+{"qoute" : "When your neighbour's wall is burning, it becomes your business." , "writer" : "Horace", "subject" : "Philosophy", "hook" : "Neighbor's fire is yours"}
+{"qoute" : "Charity is the scope of all God's commands." , "writer" : "St John Chrysostom", "subject" : "Philosophy", "hook" : "Charity is everything"}
+{"qoute" : "The finest qualities of our nature, like the bloom on fruits, can be preserved only by the most delicate handling." , "writer" : "Henry David Thoreau", "subject" : "Philosophy", "hook" : "Handle gently"}
+{"qoute" : "Human action has not woven the web of life: we are but a thread in it. Whatever we do to the web, we do to ourselves." , "writer" : "Chief Seattle", "subject" : "Philosophy", "hook" : "We are one web"}
+{"qoute" : "No man is born hating another person... People must learn to hate, and if they can learn to hate, they can be taught to love." , "writer" : "Nelson Mandela", "subject" : "Philosophy", "hook" : "Love can be taught"}
+{"qoute" : "Do not buy the enmity of one man for the love of a thousand men." , "writer" : "Al-Ghazzali", "subject" : "Philosophy", "hook" : "Don't trade love for hate"}
+{"qoute" : "Most people are subjective toward themselves and objective toward all others... but the task is to be objective toward oneself and subjective toward all others." , "writer" : "Søren Kierkegaard", "subject" : "Philosophy", "hook" : "See self clearly"}
+{"qoute" : "I believe that the first test of a really great man is his humility." , "writer" : "John Ruskin", "subject" : "Philosophy", "hook" : "Greatness is humble"}
+{"qoute" : "If it is true what philosophers say of the kinship between god and humankind, then... I am a citizen of the world." , "writer" : "Epictetus", "subject" : "Philosophy", "hook" : "World citizen"}
+{"qoute" : "He does much who loves God much, and he does his deed well who does it for the common good." , "writer" : "Thomas à Kempis", "subject" : "Philosophy", "hook" : "Do for common good"}
+{"qoute" : "What is hateful to you do not unto others. That is the entire law." , "writer" : "Rabbi Hillel", "subject" : "Philosophy", "hook" : "Golden rule"}
+{"qoute" : "At the heart of your being lies your answer. You know who you are and what you want." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "You have the answer"}
+{"qoute" : "He who masters others has power. He who masters himself has strength." , "writer" : "Laozi", "subject" : "Courage", "hook" : "You're weak? Fix this"}
+{"qoute" : "A man never discloses his own character so clearly as when he describes another's." , "writer" : "Jean Paul Richter", "subject" : "Philosophy", "hook" : "You in your words"}
+{"qoute" : "We are never so happy or unhappy as we suppose." , "writer" : "François, Duc de La Rochefoucauld", "subject" : "Philosophy", "hook" : "Feelings lie"}
+{"qoute" : "Withdraw into yourself and look... cut away all that is excessive, straighten all that is crooked, never cease chiselling your statue." , "writer" : "Plotinus", "subject" : "Philosophy", "hook" : "Carve your best self"}
+{"qoute" : "Open your eyes, and you will have plenty of bread." , "writer" : "Proverbs", "subject" : "Philosophy", "hook" : "See abundance"}
+{"qoute" : "People travel to wonder at the height of mountains... and they pass by themselves without wondering." , "writer" : "St Augustine of Hippo", "subject" : "Philosophy", "hook" : "Wonder at yourself"}
+{"qoute" : "As soon as you trust yourself, you will know how to love." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Philosophy", "hook" : "Trust self, love self"}
+{"qoute" : "You don't have a soul. You are a Soul. You have a body." , "writer" : "C.S. Lewis", "subject" : "Philosophy", "hook" : "You are soul"}
+{"qoute" : "What is terrible is to pretend that the second-rate is first-rate, that you don't need love when you do." , "writer" : "Doris Lessing", "subject" : "Philosophy", "hook" : "Don't fake it"}
+{"qoute" : "The minute a man is convinced he's interesting, he isn't." , "writer" : "Stephen Leacock", "subject" : "Philosophy", "hook" : "Stay humble"}
+{"qoute" : "If I have lost confidence in myself, I have the universe against me." , "writer" : "Ralph Waldo Emerson", "subject" : "Courage", "hook" : "Self-confidence is key"}
+{"qoute" : "To seek all your applause from outside yourself is to have your happiness in another's keeping." , "writer" : "Claudius Claudianus", "subject" : "Philosophy", "hook" : "Don't beg applause"}
+{"qoute" : "Do not be a harsh judge of yourself. Without kindness toward ourselves we cannot love the world." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Be kind to yourself"}
+{"qoute" : "At bottom every man knows well enough that he is a unique being, only once on this earth." , "writer" : "Friedrich Wilhelm Nietzsche", "subject" : "Philosophy", "hook" : "You are one of a kind"}
+{"qoute" : "We have nothing to fear but fear itself." , "writer" : "Franklin D. Roosevelt", "subject" : "Courage", "hook" : "Fear is fake"}
+{"qoute" : "Show me a thoroughly satisfied man and I will show you a failure." , "writer" : "Thomas Edison", "subject" : "Philosophy", "hook" : "Never be satisfied"}
+{"qoute" : "To be pleased with one's limits is a wretched state." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Philosophy", "hook" : "Break your limits"}
+{"qoute" : "Modesty is the lowest of the virtues, and is a real confession of the deficiency it indicates." , "writer" : "William Hazlitt", "subject" : "Philosophy", "hook" : "Modesty can hide lack"}
+{"qoute" : "One may be humble out of pride." , "writer" : "Michel de Montaigne", "subject" : "Philosophy", "hook" : "Fake humility"}
+{"qoute" : "If I am not for me, who is for me? And being for me, what am I?" , "writer" : "Rabbi Hillel", "subject" : "Philosophy", "hook" : "Be for yourself"}
+{"qoute" : "In our lives, change is unavoidable, loss is unavoidable. In the adaptability and ease with which we experience change lie our happiness and freedom." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Adapt to be free"}
+{"qoute" : "We cannot change anything until we accept it. Condemnation does not liberate: it oppresses." , "writer" : "Carl Gustav Jung", "subject" : "Philosophy", "hook" : "Accept first"}
+{"qoute" : "Of all the dangerous energies that can breed inside our minds, one of the most harmful is the wish that things were otherwise." , "writer" : "James Hoover", "subject" : "Philosophy", "hook" : "Stop wishing otherwise"}
+{"qoute" : "Worry comes from not facing unpleasant possibilities." , "writer" : "Bertrand Russell", "subject" : "Courage", "hook" : "Face it, don't worry"}
+{"qoute" : "We're fools whether we dance or not; so we might as well dance." , "writer" : "Japanese Proverb", "subject" : "Philosophy", "hook" : "Dance anyway"}
+{"qoute" : "The secret of health for both mind and body is... to live in the present moment wisely and earnestly." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Live in now"}
+{"qoute" : "The best thing one can do when it's raining is to let it rain." , "writer" : "Henry Wadsworth Longfellow", "subject" : "Philosophy", "hook" : "Let it rain"}
+{"qoute" : "Take what the gods give while their hands are open, for none knows what they will withhold when they are shut." , "writer" : "African Proverb", "subject" : "Philosophy", "hook" : "Take gifts now"}
+{"qoute" : "Sweet are the uses of adversity, which, like a toad, though ugly and venomous, wears yet a precious jewel in its head." , "writer" : "William Shakespeare", "subject" : "Courage", "hook" : "Adversity hides jewels"}
+{"qoute" : "The teaching that is without words, the gain that is to be had from letting all things take their course: these surpass the understanding of all but a very few." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Wordless wisdom"}
+{"qoute" : "God, give us the serenity to accept what cannot be changed; Give us courage to change what should be changed; Give us wisdom to distinguish one from the other." , "writer" : "Reinhold Niebuhr", "subject" : "Courage", "hook" : "Serenity courage wisdom"}
+{"qoute" : "I'm a great believer in luck, and I find the harder I work the more I have of it." , "writer" : "Thomas Jefferson", "subject" : "Philosophy", "hook" : "Work makes luck"}
+{"qoute" : "Do not fear to take chances. When it is making headway, a boat may rock." , "writer" : "Chinese Proverb", "subject" : "Courage", "hook" : "Rocking boat moves"}
+{"qoute" : "Chance has never yet satisfied the hope of a suffering people. Action, self-reliance, the vision of self and the future have been the only means." , "writer" : "Marcus Garvey", "subject" : "Courage", "hook" : "Action not chance"}
+{"qoute" : "If people never vanished like the dew... how little power to move us could anything possess. The most precious thing about life is its uncertainty." , "writer" : "Yoshida Kenko", "subject" : "Philosophy", "hook" : "Uncertainty is precious"}
+{"qoute" : "The order of the world is no accident. The religious insight is the grasp of this truth." , "writer" : "Alfred North Whitehead", "subject" : "Philosophy", "hook" : "World has order"}
+{"qoute" : "You cannot prevent the birds of sadness from flying over your head, but you can prevent them from nesting in your hair." , "writer" : "Chinese Proverb", "subject" : "Philosophy", "hook" : "Don't nest sadness"}
+{"qoute" : "The secret for harvesting from existence the greatest fruitfulness and greatest enjoyment is - to live dangerously." , "writer" : "Friedrich Wilhelm Nietzsche", "subject" : "Courage", "hook" : "Live dangerously"}
+{"qoute" : "Promises are the uniquely human way of ordering the future, making it predictable and reliable." , "writer" : "Hannah Arendt", "subject" : "Philosophy", "hook" : "Promises order future"}
+{"qoute" : "Be prudent in trusting both yourself and others and you will be joyful when things go well and not lament when they go badly." , "writer" : "Yoshida Kenko", "subject" : "Philosophy", "hook" : "Trust wisely"}
+{"qoute" : "You cannot run away from weakness; you must some time fight it out or perish; and if that be so, why not now, and where you stand?" , "writer" : "Robert Louis Stevenson", "subject" : "Courage", "hook" : "Fight weakness now"}
+{"qoute" : "Whatever you have in your mind - forget it; whatever you have in your hand - give it; whatever is to be your fate - face it!" , "writer" : "Abu Sa'id", "subject" : "Courage", "hook" : "Face your fate"}
+{"qoute" : "It is within our power not to make a judgment about something, and so not to disturb our minds." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "Don't judge, be calm"}
+{"qoute" : "The wise esteem the contempt of the arrogant more than the elixir of the gods. Humility sleeps soundly at night." , "writer" : "Ancient Sanskrit Verse", "subject" : "Philosophy", "hook" : "Humility sleeps well"}
+{"qoute" : "Activity conquers coldness. Stillness conquers heat." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Move or be still"}
+{"qoute" : "Better is a dry morsel with quiet than a house full of feasting with strife." , "writer" : "Proverbs", "subject" : "Philosophy", "hook" : "Quiet > drama"}
+{"qoute" : "Take care of each moment and you take care of all time." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Moments become years"}
+{"qoute" : "Those who are always preoccupied with something cannot enjoy the world." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Busy = dead inside"}
+{"qoute" : "If water derives clarity from stillness, how much more so does the mind!" , "writer" : "Zhuangzi", "subject" : "Philosophy", "hook" : "Your mind is muddy"}
+{"qoute" : "If you will discipline yourself to make your mind self-sufficient you will thereby be least vulnerable to injury from the outside." , "writer" : "Critias of Athens", "subject" : "Courage", "hook" : "Build inner fortress"}
+{"qoute" : "Thoughts of themselves have no substance; let them arise and pass away unheeded." , "writer" : "Ashvaghosha", "subject" : "Philosophy", "hook" : "Your thoughts are ghosts"}
+{"qoute" : "Before you take another step, step back into yourself. If you can govern yourself and be your own master, yours is the whole wide world." , "writer" : "Paul Fleming", "subject" : "Philosophy", "hook" : "Rule yourself first"}
+{"qoute" : "Fame and tranquillity can never be bedfellows." , "writer" : "Michel de Montaigne", "subject" : "Philosophy", "hook" : "Fame kills peace"}
+{"qoute" : "Anger is an expensive luxury." , "writer" : "Pope St Gregory the Great", "subject" : "Philosophy", "hook" : "Anger costs you"}
+{"qoute" : "Silence is deep as Eternity; speech is shallow as Time." , "writer" : "Thomas Carlyle", "subject" : "Philosophy", "hook" : "Shut up and listen"}
+{"qoute" : "Do not lose your inner peace for anything whatsoever, even if the whole world seems tumbled down." , "writer" : "St François de Sales", "subject" : "Courage", "hook" : "Keep your cool"}
+{"qoute" : "In meditating, sit with the dignity of a king or queen, and stay centred in this dignity as you pass through the day." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Sit like royalty"}
+{"qoute" : "If you find a thing difficult, consider whether it would be possible for any person to do it. Because anything that is humanly possible... you too can accomplish." , "writer" : "Marcus Aurelius", "subject" : "Courage", "hook" : "Others did it, so can you"}
+{"qoute" : "The only limit to our realization of tomorrow will be our doubts of today. Let us move forward with strong and active faith." , "writer" : "Franklin D. Roosevelt", "subject" : "Courage", "hook" : "Your doubt is lying"}
+{"qoute" : "Small things grow mighty, if they are skillfully combined. Blades of grass will make a rope to bind a raging elephant." , "writer" : "Hitopadesha", "subject" : "Courage", "hook" : "Small things win big"}
+{"qoute" : "Faith is to believe what we do not see; and the reward of this faith is to see what we believe." , "writer" : "St Augustine of Hippo", "subject" : "Philosophy", "hook" : "See it after believing"}
+{"qoute" : "If we fight with faith we are twice armed." , "writer" : "Plato", "subject" : "Courage", "hook" : "Faith = double power"}
+{"qoute" : "One man with courage makes a majority." , "writer" : "Andrew Jackson", "subject" : "Courage", "hook" : "One brave soul wins"}
+{"qoute" : "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them." , "writer" : "Henry David Thoreau", "subject" : "Courage", "hook" : "Build your dream"}
+{"qoute" : "Habit is habit and not to be flung out of the window by any man, but coaxed downstairs a step at a time." , "writer" : "Mark Twain", "subject" : "Philosophy", "hook" : "Change slowly"}
+{"qoute" : "One needs to be slow to form convictions, but once formed they must be defended against the heaviest odds." , "writer" : "Mahatma Gandhi", "subject" : "Courage", "hook" : "Stand by your word"}
+{"qoute" : "It is easier to fight for one's principles than to live up to them." , "writer" : "Alfred Adler", "subject" : "Philosophy", "hook" : "Talk is cheap"}
+{"qoute" : "The pillar of the world is hope." , "writer" : "Kanuri Proverb", "subject" : "Philosophy", "hook" : "Hope holds the world"}
+{"qoute" : "We do not believe in immortality because we can prove it, but we try to prove it because we cannot help believing it." , "writer" : "Harriet Martineau", "subject" : "Philosophy", "hook" : "You want to live forever"}
+{"qoute" : "Be faithful in small things: it is in them that your strength lies." , "writer" : "Mother Teresa", "subject" : "Courage", "hook" : "Small things build power"}
+{"qoute" : "Whoever reflects earnestly on the meaning of life is on the verge of an act of faith." , "writer" : "Paul Tillich", "subject" : "Philosophy", "hook" : "Thinking leads to faith"}
+{"qoute" : "It is our own mental attitude which makes the world what it is for us. Our thoughts make things beautiful, our thoughts make things ugly." , "writer" : "Swami Vivekananda", "subject" : "Philosophy", "hook" : "Your mind paints reality"}
+{"qoute" : "Hope is a waking dream." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "Dream while awake"}
+{"qoute" : "Nothing in the world can take the place of persistence. Persistence and determination are omnipotent." , "writer" : "Calvin Coolidge", "subject" : "Courage", "hook" : "Never quit wins"}
+{"qoute" : "Three grand essentials to happiness in this life are something to do, something to love, and something to hope for." , "writer" : "Joseph Addison", "subject" : "Philosophy", "hook" : "Work, love, hope"}
+{"qoute" : "The truly temperate man sets himself apart like a tree in a sunny field: it prospers, its yield is doubled." , "writer" : "Teaching of Amenemipet", "subject" : "Philosophy", "hook" : "Moderation = prosperity"}
+{"qoute" : "Moderation is the silken string running through the pearl chain of all virtues." , "writer" : "Bishop Hall", "subject" : "Philosophy", "hook" : "Moderation connects all"}
+{"qoute" : "Complete abstinence is easier than perfect moderation." , "writer" : "St Augustine of Hippo", "subject" : "Philosophy", "hook" : "Zero is easier than balance"}
+{"qoute" : "Consider how the suffering caused by your anger and grief is often much greater than the suffering caused by the very things for which you are angry." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "You hurt yourself more"}
+{"qoute" : "If passion drives you, let reason hold the reins." , "writer" : "Benjamin Franklin", "subject" : "Philosophy", "hook" : "Reason controls passion"}
+{"qoute" : "Know contentment and no disgrace will befall you. Know when to stop and you will encounter no danger." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Stop before danger"}
+{"qoute" : "Even while we speak, envious time has passed. Seize the day, putting as little trust as possible in tomorrow!" , "writer" : "Horace", "subject" : "Courage", "hook" : "Tomorrow is a lie"}
+{"qoute" : "Not one single moment of life can be regained for millions of gold coins. Therefore, what greater loss is there than time spent fruitlessly?" , "writer" : "Chanakya Pandita", "subject" : "Philosophy", "hook" : "Time is priceless"}
+{"qoute" : "We should always be mindful of the ever-present prospect of death... If we do so, the distractions of the world will not infect us." , "writer" : "Yoshida Kenko", "subject" : "Philosophy", "hook" : "Remember death, live clean"}
+{"qoute" : "Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be." , "writer" : "José Ortega y Gasset", "subject" : "Philosophy", "hook" : "You are your future"}
+{"qoute" : "First tell yourself what you want to be; and then do what you need to do." , "writer" : "Epictetus", "subject" : "Courage", "hook" : "Decide, then act"}
+{"qoute" : "We must remind ourselves as often as possible that our true life is not this external, material life... but the inner life of our spirit." , "writer" : "Leo Tolstoy", "subject" : "Philosophy", "hook" : "Outside is fake"}
+{"qoute" : "A great revolution in just one individual will help to change the destiny of all humankind." , "writer" : "Daisaku Ikeda", "subject" : "Politics", "hook" : "One person changes all"}
+{"qoute" : "The best way out is always through." , "writer" : "Robert Frost", "subject" : "Courage", "hook" : "Go through, not around"}
+{"qoute" : "By attempting the impossible one can attain the highest level of the possible." , "writer" : "August Strindberg", "subject" : "Courage", "hook" : "Aim for impossible"}
+{"qoute" : "Life can only be understood backwards: but it must be lived forwards." , "writer" : "Søren Kierkegaard", "subject" : "Philosophy", "hook" : "Live forward, understand back"}
+{"qoute" : "A musician must make music, an artist must paint, a poet must write, if he is to be at peace with himself. What a man can be, he must be." , "writer" : "Abraham Maslow", "subject" : "Philosophy", "hook" : "Be what you must"}
+{"qoute" : "Our plans fail because they have no aim. For the sailor who does not know where to set his course, there are no favourable winds." , "writer" : "Seneca", "subject" : "Philosophy", "hook" : "No aim = no wind"}
+{"qoute" : "Success usually comes to those who are too busy to be looking for it." , "writer" : "Henry David Thoreau", "subject" : "Philosophy", "hook" : "Work, don't chase"}
+{"qoute" : "If you postpone spiritual practice until you have gained all your worldly ambitions, you will never have time for spiritual practice." , "writer" : "Yoshida Kenko", "subject" : "Philosophy", "hook" : "Spirit now, not later"}
+{"qoute" : "Happiness is when what you think, what you say, and what you do are in harmony." , "writer" : "Mahatma Gandhi", "subject" : "Philosophy", "hook" : "Align mind, mouth, action"}
+{"qoute" : "He who loves money will not be satisfied with money; nor he who loves wealth, with gain: this also is vanity." , "writer" : "Ecclesiastes", "subject" : "Philosophy", "hook" : "Money never fills you"}
+{"qoute" : "Happiness is like a butterfly which, when pursued, is always beyond our grasp, but, if you will sit down quietly, may alight upon you." , "writer" : "Nathaniel Hawthorne", "subject" : "Philosophy", "hook" : "Stop chasing joy"}
+{"qoute" : "There can be no high civilization where there is not ample leisure." , "writer" : "Henry Ward Beecher", "subject" : "Politics", "hook" : "Leisure makes civilization"}
+{"qoute" : "We forgo leisure in order that we may acquire leisure, just as some go to war in order that they may have peace." , "writer" : "Aristotle", "subject" : "Politics", "hook" : "Fight for rest"}
+{"qoute" : "Happiness cannot be found in great effort and willpower, but it is already there in relaxation and letting go." , "writer" : "Lama Gendun Rinpoche", "subject" : "Philosophy", "hook" : "Relax into happiness"}
+{"qoute" : "That man is the richest whose pleasures are the cheapest." , "writer" : "Henry David Thoreau", "subject" : "Philosophy", "hook" : "Cheap joy = rich life"}
+{"qoute" : "There is no heavier burden than having too many desires." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Desires crush you"}
+{"qoute" : "All animals, except man, know that the principal business of life is to enjoy it." , "writer" : "Samuel Butler", "subject" : "Philosophy", "hook" : "Animals get it, you don't"}
+{"qoute" : "Humour is the great thing, the saving thing. The minute it crops up, all our irritations and resentments slip away." , "writer" : "Mark Twain", "subject" : "Philosophy", "hook" : "Laugh to survive"}
+{"qoute" : "Greater happiness comes with simplicity than with complexity." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Simplify to be happy"}
+{"qoute" : "Happiness, it seems to me, consists of two things: first, in being where you belong, and second... in comfortably going through everyday life." , "writer" : "Theodor Fontane", "subject" : "Philosophy", "hook" : "Belonging + comfort = joy"}
+{"qoute" : "It is better to be seventy years young than forty years old." , "writer" : "Oliver Wendell Holmes", "subject" : "Philosophy", "hook" : "Young at 70 beats old at 40"}
+{"qoute" : "Ask yourself whether you are happy and you cease to be so." , "writer" : "John Stuart Mill", "subject" : "Philosophy", "hook" : "Don't ask, just be"}
+{"qoute" : "Dost thou love life? Then do not squander time, for that is the stuff life is made of." , "writer" : "Benjamin Franklin", "subject" : "Philosophy", "hook" : "Time is life material"}
+{"qoute" : "Pleasure disappoints: possibility never." , "writer" : "Søren Kierkegaard", "subject" : "Philosophy", "hook" : "Possibility > pleasure"}
+{"qoute" : "The reward of a thing well done is to have done it." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "Done is the reward"}
+{"qoute" : "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Work, play, shut up"}
+{"qoute" : "Choose a job that you love, and you will never have to work a day in your life." , "writer" : "Confucius", "subject" : "Philosophy", "hook" : "Love work = no work"}
+{"qoute" : "A man is not old as long as he is seeking something." , "writer" : "Jean Rostand", "subject" : "Philosophy", "hook" : "Seeking keeps you young"}
+{"qoute" : "Far and away the best prize that life offers is the chance to work hard at work worth doing." , "writer" : "Theodore Roosevelt", "subject" : "Courage", "hook" : "Work worth doing"}
+{"qoute" : "Vocations which we wanted to pursue, but didn’t, bleed, like coloured dyes, onto the whole of our existence." , "writer" : "Honoré de Balzac", "subject" : "Philosophy", "hook" : "Unlived dreams bleed"}
+{"qoute" : "Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity." , "writer" : "Louis Pasteur", "subject" : "Courage", "hook" : "Tenacity = secret"}
+{"qoute" : "Stand up, be bold, be strong. Take the whole responsibility on your own shoulders, and know that you are the creator of your own destiny." , "writer" : "Swami Vivekananda", "subject" : "Courage", "hook" : "You create destiny"}
+{"qoute" : "I never see what has been done; I only see what remains to be done." , "writer" : "Marie Curie", "subject" : "Courage", "hook" : "Forget done, see remaining"}
+{"qoute" : "To be always intending to live a new life, but never find time to set about it — this is as if a man should put off eating and drinking." , "writer" : "Walter Scott", "subject" : "Philosophy", "hook" : "Stop planning, start"}
+{"qoute" : "Gold dust is precious, but when it gets in your eyes, it blurs your vision." , "writer" : "Xitang", "subject" : "Philosophy", "hook" : "Money blinds you"}
+{"qoute" : "Nothing wilts faster than laurels that have been rested upon." , "writer" : "Percy Bysshe Shelley", "subject" : "Philosophy", "hook" : "Resting ruins you"}
+{"qoute" : "If you must begin, then go all the way, because if you begin and quit, the unfinished business you have left behind will haunt you for all time." , "writer" : "Chögyam Trungpa Rinpoche", "subject" : "Courage", "hook" : "Go all in or don't start"}
+{"qoute" : "Originality does not consist in saying what no one has ever said before, but in saying exactly what you think yourself." , "writer" : "James Stephens", "subject" : "Philosophy", "hook" : "Speak your own mind"}
+{"qoute" : "It's not what you look at that matters, it's what you see." , "writer" : "Henry David Thoreau", "subject" : "Philosophy", "hook" : "Seeing > looking"}
+{"qoute" : "I saw the angel in the marble and carved until I set him free." , "writer" : "Michelangelo Buonarroti", "subject" : "Philosophy", "hook" : "Free the hidden"}
+{"qoute" : "To fall into a habit is to begin to cease to be." , "writer" : "Miguel de Unamuno", "subject" : "Philosophy", "hook" : "Habits kill you slowly"}
+{"qoute" : "Creativity requires the courage to let go of certainties." , "writer" : "Erich Fromm", "subject" : "Courage", "hook" : "Drop certainty to create"}
+{"qoute" : "An artist is someone who turns his coat inside out and falls in love with the colour of the lining." , "writer" : "Jeanne Tardiveau", "subject" : "Philosophy", "hook" : "See the inside"}
+{"qoute" : "If you can walk you can dance. If you can speak you can sing." , "writer" : "Zimbabwean Proverb", "subject" : "Courage", "hook" : "You already can"}
+{"qoute" : "Concentrate all your thoughts on the task in hand. The sun’s rays do not burn until brought to a focus." , "writer" : "Alexander Graham Bell", "subject" : "Philosophy", "hook" : "Focus burns"}
+{"qoute" : "The possible’s slow fuse is lit by the imagination." , "writer" : "Emily Dickinson", "subject" : "Philosophy", "hook" : "Imagination lights possibility"}
+{"qoute" : "They who dream by day are cognizant of many things which escape those who dream only by night." , "writer" : "Edgar Allan Poe", "subject" : "Philosophy", "hook" : "Day dreamers see more"}
+{"qoute" : "The difficult is what takes a little time: the impossible is what takes a little longer." , "writer" : "Fridtjof Nansen", "subject" : "Courage", "hook" : "Impossible just takes longer"}
+{"qoute" : "All truly wise thoughts have been thought already thousands of times; but to make them truly ours, we must think them over again honestly." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Philosophy", "hook" : "Think old thoughts anew"}
+{"qoute" : "If the doors of perception were cleansed everything would appear to man as it is, infinite." , "writer" : "William Blake", "subject" : "Philosophy", "hook" : "Clean eyes, see infinity"}
+{"qoute" : "Stop talking, stop thinking, and there is nothing you will not understand." , "writer" : "Jianzhi Sengcan", "subject" : "Philosophy", "hook" : "Shut up to understand"}
+{"qoute" : "Miracles... rest not so much on faces or voices... but upon our perceptions being made finer, so that for a moment our eyes can see and our ears can hear what there is about us always." , "writer" : "Willa Cather", "subject" : "Philosophy", "hook" : "Finer senses see miracles"}
+{"qoute" : "The limits of my language are the limits of my world." , "writer" : "Ludwig Wittgenstein", "subject" : "Philosophy", "hook" : "Words cage you"}
+{"qoute" : "If words come out of the heart, they will enter the heart, but if they come from the tongue, they will not pass beyond the ears." , "writer" : "Al-Suhrawardi", "subject" : "Philosophy", "hook" : "Heart words hit heart"}
+{"qoute" : "The reality of the other person lies not in what he reveals to you, but what he cannot reveal to you. Therefore, listen not to what he says, but to what he does not say." , "writer" : "Kahlil Gibran", "subject" : "Philosophy", "hook" : "Hear the unsaid"}
+{"qoute" : "It is one of the commonest of mistakes to consider that the limit of our power of perception is also the limit of all there is to perceive." , "writer" : "Charles Webster Leadbeater", "subject" : "Philosophy", "hook" : "Your limits are not reality"}
+{"qoute" : "Many a man fails to become a thinker only for the reason that his memory is too good." , "writer" : "Friedrich Wilhelm Nietzsche", "subject" : "Philosophy", "hook" : "Good memory blocks thought"}
+{"qoute" : "All our progress is an unfolding... Trust the instinct to the end, though you can render no reason." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "Trust instinct without reason"}
+{"qoute" : "As nothing is more easy than to think, so nothing is more difficult than to think well." , "writer" : "Thomas Traherne", "subject" : "Philosophy", "hook" : "Thinking well is hard"}
+{"qoute" : "Mind is the great lever of all things; human thought is the process by which human ends are ultimately answered." , "writer" : "Daniel Webster", "subject" : "Philosophy", "hook" : "Mind moves the world"}
+{"qoute" : "They are ill discoverers that think there is no land, when they can see nothing but sea." , "writer" : "Francis Bacon", "subject" : "Courage", "hook" : "Sea hides land"}
+{"qoute" : "All men by their nature desire knowledge." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "You crave knowledge"}
+{"qoute" : "Knowledge is merely brilliance in the organization of ideas. It is not true wisdom. The truly wise go beyond knowledge." , "writer" : "Confucius", "subject" : "Philosophy", "hook" : "Beyond knowledge is wisdom"}
+{"qoute" : "Do not learn how to react, but how to respond." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Respond, don't react"}
+{"qoute" : "What may be done at any time will be done at no time." , "writer" : "Scottish Proverb", "subject" : "Philosophy", "hook" : "Anytime = never"}
+{"qoute" : "Those who have knowledge do not speak. Those who speak do not have knowledge." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Knowers stay silent"}
+{"qoute" : "There is no good in arguing with the inevitable. The only argument available with an east wind is to put on your overcoat." , "writer" : "James Russell Lowell", "subject" : "Philosophy", "hook" : "Don't fight the wind"}
+{"qoute" : "Only the wisest and the least wise never change." , "writer" : "Confucius", "subject" : "Philosophy", "hook" : "Stubborn = wise or fool"}
+{"qoute" : "Power without wisdom collapses under its own weight." , "writer" : "Horace", "subject" : "Politics", "hook" : "Power kills without wisdom"}
+{"qoute" : "Dare to be wise: when you begin you are already halfway there." , "writer" : "Horace", "subject" : "Courage", "hook" : "Start = halfway"}
+{"qoute" : "There is no enlightenment outside of daily life." , "writer" : "Thich Nhat Hanh", "subject" : "Philosophy", "hook" : "Enlightenment is now"}
+{"qoute" : "The perfection of wisdom, and the end of true philosophy is to proportion our wants to our possessions." , "writer" : "Mark Twain", "subject" : "Philosophy", "hook" : "Match wants to what you have"}
+{"qoute" : "Let your mind become clear like a still woodland pond." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Clear mind = still pond"}
+{"qoute" : "Memory is the mother of all wisdom." , "writer" : "Aeschylus", "subject" : "Philosophy", "hook" : "Memory births wisdom"}
+{"qoute" : "The men of experiment are like the ant... the reasoners resemble spiders... But the bee takes the middle course." , "writer" : "Francis Bacon", "subject" : "Philosophy", "hook" : "Be the bee"}
+{"qoute" : "To the wise, nothing is alien or remote." , "writer" : "Antisthenes", "subject" : "Philosophy", "hook" : "Wise owns everything"}
+{"qoute" : "At 20 years of age the will reigns, at 30 the wit, at 40 the judgment." , "writer" : "Benjamin Franklin", "subject" : "Philosophy", "hook" : "Will, wit, judgment"}
+{"qoute" : "Axioms in philosophy are not axioms until they are proved upon our pulses." , "writer" : "John Keats", "subject" : "Philosophy", "hook" : "Feel truth to know it"}
+{"qoute" : "Of a good leader, when his work is done the people will say, 'We did this ourselves.'" , "writer" : "Laozi", "subject" : "Politics", "hook" : "Invisible leader wins"}
+{"qoute" : "Wise men learn many things from their enemies." , "writer" : "Aristophanes", "subject" : "Philosophy", "hook" : "Enemies teach you"}
+{"qoute" : "Experience is a comb which nature gives us when we are bald." , "writer" : "Belgian Proverb", "subject" : "Philosophy", "hook" : "Experience comes too late"}
+{"qoute" : "All rising to a great place is by a winding stair." , "writer" : "Francis Bacon", "subject" : "Philosophy", "hook" : "Success is crooked"}
+{"qoute" : "One thorn of experience is worth a whole wilderness of warning." , "writer" : "James Russell Lowell", "subject" : "Philosophy", "hook" : "One pain beats many warnings"}
+{"qoute" : "Don’t break your shin on a stool that is not in your way." , "writer" : "Irish Proverb", "subject" : "Philosophy", "hook" : "Ignore what's not in your path"}
+{"qoute" : "A great philosophy is not one that passes final judgments... It is one that causes uneasiness and starts commotion." , "writer" : "Charles Péguy", "subject" : "Philosophy", "hook" : "Good philosophy disturbs"}
+{"qoute" : "In the mind of the beginner there are many possibilities. In the mind of the expert there are few." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Beginner sees all"}
+{"qoute" : "It is impossible to walk rapidly and be unhappy." , "writer" : "Mother Teresa", "subject" : "Philosophy", "hook" : "Walk fast = be happy"}
+{"qoute" : "To overcome evil with good is good; to overcome evil with evil is evil." , "writer" : "Muhammad", "subject" : "Philosophy", "hook" : "Good beats evil"}
+{"qoute" : "For the things we have to learn before we can do them, we learn by doing them." , "writer" : "Hannah Arendt", "subject" : "Philosophy", "hook" : "Do to learn"}
+{"qoute" : "Science is organized knowledge. Wisdom is organized life." , "writer" : "Immanuel Kant", "subject" : "Philosophy", "hook" : "Organize life = wisdom"}
+{"qoute" : "There is no economy in going to bed early to save candles if the result be twins." , "writer" : "Chinese Proverb", "subject" : "Philosophy", "hook" : "Penny wise, pound foolish"}
+{"qoute" : "What strikes the oyster does not damage the pearl." , "writer" : "Jalal ud-Din Rumi", "subject" : "Courage", "hook" : "Pearl survives strikes"}
+{"qoute" : "The man who reads nothing at all is better educated than the man who reads nothing but newspapers." , "writer" : "Thomas Jefferson", "subject" : "Philosophy", "hook" : "Newspapers rot brain"}
+{"qoute" : "A donkey with a load of holy books is still a donkey." , "writer" : "Traditional Sufi Saying", "subject" : "Philosophy", "hook" : "Books don't make you wise"}
+{"qoute" : "Enlightenment must come little by little - otherwise it would overwhelm." , "writer" : "Idries Shah", "subject" : "Philosophy", "hook" : "Slow enlightenment"}
+{"qoute" : "Besides the noble art of getting things done, there is the noble art of leaving things undone." , "writer" : "Lin Yutang", "subject" : "Philosophy", "hook" : "Leave some undone"}
+{"qoute" : "Genius without education is like silver in the mine." , "writer" : "Benjamin Franklin", "subject" : "Philosophy", "hook" : "Genius needs mining"}
+{"qoute" : "As soon as you trust yourself, you will know how to live." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Courage", "hook" : "Trust = know how to live"}
+{"qoute" : "We could never learn to be brave and patient if there were only joy in the world." , "writer" : "Helen Keller", "subject" : "Courage", "hook" : "Joy alone can't teach bravery"}
+{"qoute" : "A wise person, even though all laws were abolished, would still lead the same life." , "writer" : "Aristophanes", "subject" : "Philosophy", "hook" : "Wise needs no laws"}
+{"qoute" : "How vain it is to sit down to write when you have not stood up to live." , "writer" : "Henry David Thoreau", "subject" : "Philosophy", "hook" : "Live first, write later"}
+{"qoute" : "To find the guru is a great boon: without him, we are lost, like a moth that is attracted by the lamp." , "writer" : "Kabir", "subject" : "Philosophy", "hook" : "Guru saves from flame"}
+{"qoute" : "The sage shuns excess, extravagance, and arrogance." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "No excess, no ego"}
+{"qoute" : "The teacher should have maximal authority and minimal power." , "writer" : "Thomas Szasz", "subject" : "Politics", "hook" : "Authority without power"}
+{"qoute" : "When I desire to know, I seek out the man of learning. When I desire to understand, I seek out the man of wisdom." , "writer" : "Mahmud ibn Teli", "subject" : "Philosophy", "hook" : "Learning vs understanding"}
+{"qoute" : "Hold on firmly to good friends and fine teachers. Riches and power are fleeting dreams, but the fragrance of wise words lingers." , "writer" : "Hanshan", "subject" : "Philosophy", "hook" : "Wise words linger"}
+{"qoute" : "Simplicity is the ultimate sophistication." , "writer" : "Leonardo da Vinci", "subject" : "Philosophy", "hook" : "Simple is best"}
+{"qoute" : "First, rely on the spirit and meaning of the teachings, not on the words; second, rely on the teachings, not on the personality of the teacher." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Ignore words, ignore teacher"}
+{"qoute" : "The learner always begins by finding fault, but the scholar sees the positive merit in everything." , "writer" : "Georg Hegel", "subject" : "Philosophy", "hook" : "Learners complain, scholars see"}
+{"qoute" : "To teach is to learn twice." , "writer" : "Joseph Joubert", "subject" : "Philosophy", "hook" : "Teaching = double learning"}
+{"qoute" : "A mind is a fire to be kindled, not a vessel to be filled." , "writer" : "Plutarch", "subject" : "Philosophy", "hook" : "Ignite minds, don't fill"}
+{"qoute" : "Education is an ornament in prosperity and a refuge in adversity." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "Education saves in hard times"}
+{"qoute" : "A wise man’s question contains half the answer." , "writer" : "Ibn Gabirol", "subject" : "Philosophy", "hook" : "Ask well = half answer"}
+{"qoute" : "The way of heaven is to nurture but not to harm. The way of the sage is to strive but not to compete." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Strive, don't compete"}
+{"qoute" : "Preach the Gospel at all times and when necessary use words." , "writer" : "St Francis of Assisi", "subject" : "Philosophy", "hook" : "Actions preach louder"}
+{"qoute" : "Every child comes with the message that God is not yet discouraged of man." , "writer" : "Rabindranath Tagore", "subject" : "Philosophy", "hook" : "Children = God's hope"}
+{"qoute" : "Children need models rather than critics." , "writer" : "Joseph Joubert", "subject" : "Philosophy", "hook" : "Be a model, not a critic"}
+{"qoute" : "Do not confine your children to your own learning, for they were born in another time." , "writer" : "Chinese Proverb", "subject" : "Philosophy", "hook" : "Your time is not theirs"}
+{"qoute" : "Adults can learn from very little children, for the hearts of little children are pure." , "writer" : "Black Elk", "subject" : "Philosophy", "hook" : "Kids teach purity"}
+{"qoute" : "There is no finer investment for any community than putting milk into babies." , "writer" : "Winston Churchill", "subject" : "Politics", "hook" : "Invest in babies"}
+{"qoute" : "The greatest sign of success for a teacher is to be able to say, 'The children are now working as if I did not exist'." , "writer" : "Maria Montessori", "subject" : "Philosophy", "hook" : "Invisible teacher wins"}
+{"qoute" : "The most effective kind of education is that a child should play among lovely things." , "writer" : "Plato", "subject" : "Philosophy", "hook" : "Play in beauty"}
+{"qoute" : "The greatest mistake you can make in life is to be continually fearing you will make one." , "writer" : "Elbert Hubbard", "subject" : "Courage", "hook" : "Fear of mistake is mistake"}
+{"qoute" : "No man’s error becomes his own law, nor obliges him to persist in it." , "writer" : "Thomas Hobbes", "subject" : "Philosophy", "hook" : "Errors don't bind you"}
+{"qoute" : "To undertake a genuine spiritual path is not to avoid difficulties but to learn the art of making mistakes wakefully." , "writer" : "Jack Kornfield", "subject" : "Philosophy", "hook" : "Make mistakes awake"}
+{"qoute" : "We learn wisdom from failure much more than from success." , "writer" : "Samuel Smiles", "subject" : "Philosophy", "hook" : "Failure teaches more"}
+{"qoute" : "Situations are easier to enter than to exit; but it is only common sense to look for the way out before venturing in." , "writer" : "Aesop", "subject" : "Philosophy", "hook" : "Plan your exit first"}
+{"qoute" : "If a man will begin in certainties he shall end in doubts; but if he will be content to begin in doubts he shall end in certainties." , "writer" : "Francis Bacon", "subject" : "Philosophy", "hook" : "Start doubtful, end sure"}
+{"qoute" : "The season of failure is the best time for sowing the seeds of success." , "writer" : "Paramahansa Yogananda", "subject" : "Courage", "hook" : "Fail = plant success"}
+{"qoute" : "Take heed of your opponents, for they are the first to realize your errors." , "writer" : "Antisthenes", "subject" : "Philosophy", "hook" : "Enemies see your flaws first"}
+{"qoute" : "The greatest of faults is to be conscious of none." , "writer" : "Thomas Carlyle", "subject" : "Philosophy", "hook" : "Blind to faults = worst fault"}
+{"qoute" : "What is strong and rigid is snapped and laid low. What is flexible and soft will always prevail." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Bend or break"}
+{"qoute" : "The true way to be deceived is to think oneself more knowing than others." , "writer" : "François, Duc de La Rochefoucauld", "subject" : "Philosophy", "hook" : "Overconfidence = deception"}
+{"qoute" : "For every sin but the killing of time there is forgiveness." , "writer" : "Traditional Sufi Saying", "subject" : "Philosophy", "hook" : "Wasting time unforgivable"}
+{"qoute" : "People will not look forward to posterity who never look backward to their ancestors." , "writer" : "Edmund Burke", "subject" : "Philosophy", "hook" : "Forget past = no future"}
+{"qoute" : "To avoid criticism, be nothing, do nothing, say nothing." , "writer" : "Elbert Hubbard", "subject" : "Philosophy", "hook" : "Criticism = you exist"}
+{"qoute" : "An expert is a person who has made all the mistakes that can be made in a very narrow field." , "writer" : "Niels Bohr", "subject" : "Philosophy", "hook" : "Expert = master of mistakes"}
+{"qoute" : "Whenever a theory appears to you as the only possible one, take this as a sign that you have neither understood the theory nor the problem." , "writer" : "Karl Popper", "subject" : "Philosophy", "hook" : "Only one answer = you're wrong"}
+{"qoute" : "If people never did silly things, nothing intelligent would ever get done." , "writer" : "Ludwig Wittgenstein", "subject" : "Philosophy", "hook" : "Silly leads to smart"}
+{"qoute" : "Have the courage to be ignorant of a great number of things, in order to avoid the certainty of being ignorant of everything." , "writer" : "Sydney Smith", "subject" : "Courage", "hook" : "Choose ignorance wisely"}
+{"qoute" : "Whatever difficulties you have had in the past, you can make a fresh start today." , "writer" : "The Buddha", "subject" : "Courage", "hook" : "Today is new start"}
+{"qoute" : "Every old man that dies is a library that burns." , "writer" : "Amadou Hampâté Bâ", "subject" : "Philosophy", "hook" : "Death burns knowledge"}
+{"qoute" : "Not to know what has happened in former times is to be always a child. If no use is made of the toils of the past, the world must remain always in the infancy of knowledge." , "writer" : "Marcus Tullius Cicero", "subject" : "Philosophy", "hook" : "Ignore past = stay child"}
+{"qoute" : "Every man of us has all the centuries in him." , "writer" : "Lord Morley", "subject" : "Philosophy", "hook" : "You carry history inside"}
+{"qoute" : "A country without a memory is a country of madmen." , "writer" : "George Santayana", "subject" : "Philosophy", "hook" : "Memory keeps sane"}
+{"qoute" : "People get the history they deserve." , "writer" : "Charles de Gaulle", "subject" : "Politics", "hook" : "You deserve your history"}
+{"qoute" : "What experience and history teach is this — that people and governments have never learned anything from history." , "writer" : "Georg Hegel", "subject" : "Politics", "hook" : "We learn nothing from history"}
+{"qoute" : "The past is necessarily inferior to the future. That is how we wish it to be." , "writer" : "Tommaso Marinetti", "subject" : "Philosophy", "hook" : "Past < future"}
+{"qoute" : "The past is a lighthouse, not a harbour." , "writer" : "Russian Saying", "subject" : "Philosophy", "hook" : "Past guides, don't dock"}
+{"qoute" : "Whoever wishes to foresee the future must consult the past; for human events ever resemble those of preceding times." , "writer" : "Niccolò Machiavelli", "subject" : "Politics", "hook" : "Past predicts future"}
+{"qoute" : "You can only predict things after they have happened." , "writer" : "Eugène Ionesco", "subject" : "Philosophy", "hook" : "Prediction = hindsight"}
+{"qoute" : "The good are the teachers of the bad, and the bad are the raw materials of the good." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Bad feeds good"}
+{"qoute" : "In the mirror of bronze, you can see whether you are properly dressed; in the mirror of history, you can see how a nation rises and falls; in the mirror of other people you can see whether you are right or wrong." , "writer" : "Emperor Taizong", "subject" : "Philosophy", "hook" : "People mirror truth"}
+{"qoute" : "Best is to know all things; good is to listen when you hear what is right; worst is to be ignorant and deaf to the wisdom of another." , "writer" : "Hesiod", "subject" : "Philosophy", "hook" : "Deaf to wisdom = worst"}
+{"qoute" : "The noble and the good are a joy to see. To be with them brings happiness. If we never encountered fools, we would always be happy!" , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Fools ruin happiness"}
+{"qoute" : "It is unwise to be too sure of one’s own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err." , "writer" : "Mahatma Gandhi", "subject" : "Philosophy", "hook" : "Wisdom can err"}
+{"qoute" : "They are best off who know that they do not know. They are worst off who claim to know but do not." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Know you don't know = best"}
+{"qoute" : "Think of yourself as if you were the only unenlightened person in the world. Everyone else is your teacher." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "All others are teachers"}
+{"qoute" : "It is true that I know very little. But I prefer that little which is my own." , "writer" : "Paul Gauguin", "subject" : "Philosophy", "hook" : "Own little > borrowed lot"}
+{"qoute" : "A wise traveller never despises his own country." , "writer" : "William Hazlitt", "subject" : "Philosophy", "hook" : "Love home first"}
+{"qoute" : "Beware you be not swallowed up in books! An ounce of love is worth a pound of knowledge." , "writer" : "John Wesley", "subject" : "Philosophy", "hook" : "Love > knowledge"}
+{"qoute" : "You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul." , "writer" : "Swami Vivekananda", "subject" : "Philosophy", "hook" : "Soul is only teacher"}
+{"qoute" : "Teach your tongue to say 'I do not know' and you will make progress." , "writer" : "Maimonides", "subject" : "Philosophy", "hook" : "I don't know = progress"}
+{"qoute" : "We can be knowledgable with other men’s knowledge, but we cannot be wise with other men’s wisdom." , "writer" : "Michel de Montaigne", "subject" : "Philosophy", "hook" : "Borrowed wisdom fails"}
+{"qoute" : "I am defeated, and know it, if I meet any human being from whom I find myself unable to learn anything." , "writer" : "George Herbert Palmer", "subject" : "Philosophy", "hook" : "Can't learn = defeat"}
+{"qoute" : "Man needs difficulties: they are necessary for health." , "writer" : "Carl Gustav Jung", "subject" : "Philosophy", "hook" : "Difficulties = health"}
+{"qoute" : "To succeed, you must have tremendous perseverance, tremendous will. 'I will drink the ocean,' says the persevering soul." , "writer" : "Swami Vivekananda", "subject" : "Courage", "hook" : "Drink the ocean"}
+{"qoute" : "Enjoy when you can, and endure when you must." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Courage", "hook" : "Enjoy or endure"}
+{"qoute" : "Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." , "writer" : "John Quincy Adams", "subject" : "Courage", "hook" : "Courage makes obstacles vanish"}
+{"qoute" : "Certainly virtue is like precious odours, most fragrant when they are incensed, or crushed: for adversity doth best discover virtue." , "writer" : "Francis Bacon", "subject" : "Courage", "hook" : "Crushed virtue smells sweetest"}
+{"qoute" : "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day; begin it well and serenely and with too high a spirit to be cumbered with your old nonsense." , "writer" : "Ralph Waldo Emerson", "subject" : "Courage", "hook" : "Forget yesterday's nonsense"}
+{"qoute" : "Our greatest glory is not in never falling, but in rising every time we fall." , "writer" : "Confucius", "subject" : "Courage", "hook" : "Rising after fall = glory"}
+{"qoute" : "The discipline of suffering, of great suffering — do you not know that it is this discipline alone that has created every elevation of mankind hitherto?" , "writer" : "Friedrich Wilhelm Nietzsche", "subject" : "Courage", "hook" : "Suffering lifts you"}
+{"qoute" : "The little reed, bending with the wind, soon stood upright again when the wind had passed." , "writer" : "Aesop", "subject" : "Courage", "hook" : "Bend, don't break"}
+{"qoute" : "Difficulties are like mountains: they break the winds around them, but, like them, they break and purify the air of the plain beneath." , "writer" : "Jean Paul Richter", "subject" : "Courage", "hook" : "Mountains break winds"}
+{"qoute" : "Some things are rushing into existence, and other things are rushing out of existence... Movement and change constantly renew the world." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "Change renews"}
+{"qoute" : "Our chief want in life is somebody who shall make us do what we can." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "Need someone to push you"}
+{"qoute" : "What we cultivate in times of ease, we store up to support us in times of change." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Store in ease, use in change"}
+{"qoute" : "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face." , "writer" : "Eleanor Roosevelt", "subject" : "Courage", "hook" : "Look fear in face = gain"}
+{"qoute" : "There was never yet philosopher that could endure the toothache patiently." , "writer" : "William Shakespeare", "subject" : "Philosophy", "hook" : "Toothache beats philosophy"}
+{"qoute" : "If men and women are to understand each other... the foundation must be laid in youth." , "writer" : "Henry Ellis", "subject" : "Philosophy", "hook" : "Understand youth to understand each other"}
+{"qoute" : "Between men and women there is no friendship possible. There is passion, enmity, worship, love, but no friendship." , "writer" : "Oscar Wilde", "subject" : "Philosophy", "hook" : "No friendship between sexes?"}
+{"qoute" : "Male and female represent the two sides of the great radical dualism. But in fact they are perpetually passing into one another." , "writer" : "Margaret Fuller", "subject" : "Philosophy", "hook" : "Male and female blend"}
+{"qoute" : "One is not born a woman, one becomes one." , "writer" : "Simone de Beauvoir", "subject" : "Philosophy", "hook" : "Woman is made, not born"}
+{"qoute" : "It is not what happens to us that disturbs us, but what we think about what happens to us." , "writer" : "Epictetus", "subject" : "Philosophy", "hook" : "Thoughts disturb, not events"}
+{"qoute" : "Make it your habit to listen carefully to what other people say and, as far as possible, be inside the mind of the person speaking." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "Enter their mind"}
+{"qoute" : "Quarrels would not last long if the fault was only on one side." , "writer" : "François, Duc de La Rochefoucauld", "subject" : "Philosophy", "hook" : "Fault on both sides"}
+{"qoute" : "Never stop because you are afraid: you are never so likely to be wrong." , "writer" : "Fridtjof Nansen", "subject" : "Courage", "hook" : "Fear = wrong time to stop"}
+{"qoute" : "Grief is the agony of an instant, the indulgence of grief the blunder of a life." , "writer" : "Benjamin Disraeli", "subject" : "Philosophy", "hook" : "Indulge grief = blunder"}
+{"qoute" : "A soft answer turns away wrath, but a harsh word stirs up anger." , "writer" : "Proverbs", "subject" : "Philosophy", "hook" : "Soft words stop fire"}
+{"qoute" : "We do not see things as they are. We see them as we are." , "writer" : "The Talmud", "subject" : "Philosophy", "hook" : "You see yourself"}
+{"qoute" : "Deep in their hearts, most people wish to be understood and to be cherished." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Everyone wants to be cherished"}
+{"qoute" : "We live in feelings, not in figures on a sundial. We should count time in heartbeats." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "Count heartbeats, not hours"}
+{"qoute" : "When I am getting ready to reason with a man, I spend one third of my time thinking about myself and what I am going to say and two thirds about him and what he is going to say." , "writer" : "Abraham Lincoln", "subject" : "Philosophy", "hook" : "Think of them 2/3 of time"}
+{"qoute" : "Be not disturbed at being misunderstood; be disturbed rather at not being understanding." , "writer" : "Chinese Proverb", "subject" : "Philosophy", "hook" : "Not understanding = problem"}
+{"qoute" : "If you spend your life killing, you will never be rid of all your enemies. But if you quell your own anger, you will have slain your real enemy." , "writer" : "Nagarjuna", "subject" : "Philosophy", "hook" : "Anger is real enemy"}
+{"qoute" : "Sometimes a scream is better than a thesis." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "Scream beats thesis"}
+{"qoute" : "Never apologize for showing feeling. When you do so, you apologize for truth." , "writer" : "Benjamin Disraeli", "subject" : "Philosophy", "hook" : "Feelings = truth"}
+{"qoute" : "If you don’t get everything you want, think of the things you don’t get that you don’t want." , "writer" : "Oscar Wilde", "subject" : "Philosophy", "hook" : "Be glad for what you don't want"}
+{"qoute" : "No pessimist ever discovered the secret of the stars or sailed an unchartered land." , "writer" : "Helen Keller", "subject" : "Courage", "hook" : "Pessimists discover nothing"}
+{"qoute" : "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." , "writer" : "Benjamin Franklin", "subject" : "Philosophy", "hook" : "Sunlight kills worry"}
+{"qoute" : "Which of you by being anxious can add one cubit to your span of life?" , "writer" : "Matthew 6.27", "subject" : "Philosophy", "hook" : "Anxiety adds zero"}
+{"qoute" : "A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties." , "writer" : "Harry S. Truman", "subject" : "Philosophy", "hook" : "Same thing, different view"}
+{"qoute" : "Fear arises from desire, but dissolves of its own accord when you stand firm and bear it with impartiality." , "writer" : "The Buddha", "subject" : "Courage", "hook" : "Stand firm, fear dies"}
+{"qoute" : "When one door closes, another opens, but we often look so long and so regretfully upon the closed door that we do not see the one which has opened." , "writer" : "Alexander Graham Bell", "subject" : "Courage", "hook" : "Stop staring at closed door"}
+{"qoute" : "Whenever you are asked if you can do a job, tell 'em, 'Certainly I can!' Then get busy and find out how to do it." , "writer" : "Theodore Roosevelt", "subject" : "Courage", "hook" : "Say yes, figure out later"}
+{"qoute" : "As the snake's venom... is dispelled by antidotes, he who gives up anger that has arisen renounces the world of suffering." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "Drop anger = drop suffering"}
+{"qoute" : "You cannot have a proud and chivalrous spirit if your conduct is mean and paltry; for whatever your actions are, such must be your spirit." , "writer" : "Demosthenes", "subject" : "Philosophy", "hook" : "Action reveals spirit"}
+{"qoute" : "The heart has its reasons, of which the mind knows nothing." , "writer" : "Blaise Pascal", "subject" : "Philosophy", "hook" : "Heart knows more than mind"}
+{"qoute" : "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Miracle or nothing"}
+{"qoute" : "The best, most beautiful things in the world cannot be seen, or even touched. They must be felt with the heart." , "writer" : "Helen Keller", "subject" : "Philosophy", "hook" : "Heart sees unseen"}
+{"qoute" : "Positive anything is better than negative nothing." , "writer" : "Elbert Hubbard", "subject" : "Philosophy", "hook" : "Positive > nothing"}
+{"qoute" : "The one chased away with a club comes back, but the one chased away with reason does not." , "writer" : "Kikuyu Proverb", "subject" : "Philosophy", "hook" : "Reason wins over force"}
+{"qoute" : "Digressions, objections, gleeful mockery, carefree mistrust are signs of health; everything unconditional belongs in pathology." , "writer" : "Friedrich Wilhelm Nietzsche", "subject" : "Philosophy", "hook" : "Doubt is healthy"}
+{"qoute" : "Reason should command and desire obey." , "writer" : "Marcus Tullius Cicero", "subject" : "Philosophy", "hook" : "Reason boss desire"}
+{"qoute" : "The greatest discovery of my generation is that a human being can change his life by changing his attitude of mind." , "writer" : "William James", "subject" : "Philosophy", "hook" : "Change attitude = change life"}
+{"qoute" : "When you are thinking of changing something, first consider whether the change will truly bring any benefit. If not, it is best to leave things unchanged." , "writer" : "Yoshida Kenko", "subject" : "Philosophy", "hook" : "Change only if benefit"}
+{"qoute" : "How fleeting and insignificant is the lot of humankind... live rationally, and part with life cheerfully, as the ripe olive drops to the ground." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "Leave like ripe olive"}
+{"qoute" : "Reason can wrestle fear and overthrow it." , "writer" : "Euripides", "subject" : "Courage", "hook" : "Reason beats fear"}
+{"qoute" : "Reason is like an officer when the king appears. The officer then loses his power and hides himself. Reason is the shadow cast by God; God is the sun." , "writer" : "Jalal ud-Din Rumi", "subject" : "Philosophy", "hook" : "Reason = shadow of God"}
+{"qoute" : "The heart is half a prophet." , "writer" : "Jewish Proverb", "subject" : "Philosophy", "hook" : "Heart = half prophet"}
+{"qoute" : "Our chief affliction is that we live not according to the light of reason, but after the fashion of others." , "writer" : "Seneca", "subject" : "Philosophy", "hook" : "You copy others"}
+{"qoute" : "We should take care not to make the intellect our god; it has, of course, powerful muscles, but no personality." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Intellect is no god"}
+{"qoute" : "Look at the trees, look at the birds, look at the clouds, look at the stars... and if you have eyes you will be able to see that the whole existence is joyful." , "writer" : "Osho", "subject" : "Philosophy", "hook" : "Joy is everywhere"}
+{"qoute" : "Whoever could make two ears of corn, or two blades of grass, to grow upon a spot of ground where only one grew before, would deserve better of mankind than the whole race of politicians put together." , "writer" : "Jonathan Swift", "subject" : "Politics", "hook" : "Farmers > politicians"}
+{"qoute" : "All is a miracle. The stupendous order of nature, the revolution of a hundred million of worlds... all are grand and perpetual miracles." , "writer" : "Voltaire", "subject" : "Philosophy", "hook" : "Everything is miracle"}
+{"qoute" : "In my hut this spring, there is nothing — and everything!" , "writer" : "Sodo", "subject" : "Philosophy", "hook" : "Nothing = everything"}
+{"qoute" : "Listen to the sound of the river and you will catch a trout." , "writer" : "Irish Proverb", "subject" : "Philosophy", "hook" : "River sound = fish"}
+{"qoute" : "It will never rain roses. When we want to have more roses, we must plant more roses." , "writer" : "George Eliot", "subject" : "Philosophy", "hook" : "Plant roses for roses"}
+{"qoute" : "Even if you drive out nature with a pitchfork, she will always find her way back." , "writer" : "Horace", "subject" : "Philosophy", "hook" : "Nature always returns"}
+{"qoute" : "Human subtlety will never devise an invention more beautiful, more simple or more direct than does nature." , "writer" : "Leonardo da Vinci", "subject" : "Philosophy", "hook" : "Nature > human invention"}
+{"qoute" : "Nature knows no indecencies; man invents them." , "writer" : "Mark Twain", "subject" : "Philosophy", "hook" : "Man creates indecency"}
+{"qoute" : "All the fish needs is to get lost in the water. All humankind needs is to get lost in the Dao." , "writer" : "Zhuangzi", "subject" : "Philosophy", "hook" : "Lose self to find Dao"}
+{"qoute" : "If one way be better than another, that, you may be sure, is nature's way." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "Nature's way = best"}
+{"qoute" : "If you live according to the dictates of nature, you will never be poor; if according to the notions of humankind, you will never be rich." , "writer" : "Seneca", "subject" : "Philosophy", "hook" : "Nature's rich = different"}
+{"qoute" : "Nature does nothing fruitlessly." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "Nature wastes nothing"}
+{"qoute" : "Who reaches with a clumsy hand for a rose must not complain if the thorns scratch." , "writer" : "Heinrich Heine", "subject" : "Philosophy", "hook" : "Roses have thorns"}
+{"qoute" : "Nature never says one thing and wisdom another." , "writer" : "Juvenal", "subject" : "Philosophy", "hook" : "Nature and wisdom agree"}
+{"qoute" : "Be like a tree — strong, shady, silently productive, living only for others." , "writer" : "Swami Atmananda", "subject" : "Philosophy", "hook" : "Tree = role model"}
+{"qoute" : "Nature does not hurry, yet everything is accomplished." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "No hurry, all done"}
+{"qoute" : "When one tugs at a single thing in nature, he finds it attached to the rest of the world." , "writer" : "John Muir", "subject" : "Philosophy", "hook" : "Everything connected"}
+{"qoute" : "Nature teaches more than she preaches. There are no sermons in stones." , "writer" : "John Burroughs", "subject" : "Philosophy", "hook" : "Stones don't preach"}
+{"qoute" : "Nature never deceives us; it is we who deceive ourselves." , "writer" : "Jean-Jacques Rousseau", "subject" : "Philosophy", "hook" : "Nature honest, you lie"}
+{"qoute" : "Chaos often breeds life, when order breeds habit." , "writer" : "Henry Brooks Adams", "subject" : "Philosophy", "hook" : "Chaos = life, order = habit"}
+{"qoute" : "In the landscape of spring, there is neither better nor worse. The blossoming branches grow naturally, some long, some short." , "writer" : "Zen Saying", "subject" : "Philosophy", "hook" : "No judgment, just growth"}
+{"qoute" : "Everything in nature contains all the power of nature. Everything is made of one hidden stuff." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "One stuff connects all"}
+{"qoute" : "If the Lord Almighty had consulted me before embarking upon Creation, I should have recommended something simpler." , "writer" : "Alfonso X", "subject" : "Philosophy", "hook" : "God's design too complex"}
+{"qoute" : "I would like to live in solitary confinement... so that I may look in ecstasy upon the moon." , "writer" : "Matsuo Basho", "subject" : "Philosophy", "hook" : "Moon alone is enough"}
+{"qoute" : "It is clear to all that astronomy compels the soul to look upward, and draws it from the things of this world to the other." , "writer" : "Plato", "subject" : "Philosophy", "hook" : "Stars lift the soul"}
+{"qoute" : "The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do." , "writer" : "Galileo Galilei", "subject" : "Philosophy", "hook" : "Sun focuses on grapes"}
+{"qoute" : "The Infinite has written its name on the heavens in shining stars, and on Earth in tender flowers." , "writer" : "Jean Paul Richter", "subject" : "Philosophy", "hook" : "Stars and flowers = signature"}
+{"qoute" : "I don’t pretend to understand the Universe. It’s a great deal bigger than I am." , "writer" : "Thomas Carlyle", "subject" : "Philosophy", "hook" : "Universe too big"}
+{"qoute" : "The sun will set without your assistance." , "writer" : "The Talmud", "subject" : "Philosophy", "hook" : "You can't stop sunset"}
+{"qoute" : "The universe is full of magical things patiently waiting for our wits to grow sharper." , "writer" : "Eden Phillpotts", "subject" : "Philosophy", "hook" : "Magic waits for sharp wits"}
+{"qoute" : "Discovery consists of seeing what everyone has seen and thinking what no one has thought." , "writer" : "Albert von Szent-Györgyi", "subject" : "Philosophy", "hook" : "See same, think different"}
+{"qoute" : "No great discovery was ever made without a bold guess." , "writer" : "Isaac Newton", "subject" : "Philosophy", "hook" : "Bold guess = discovery"}
+{"qoute" : "We carry within us all the wonders we seek without us: there is all Africa and her prodigies in us." , "writer" : "Thomas Browne", "subject" : "Philosophy", "hook" : "Wonders inside you"}
+{"qoute" : "The process of scientific discovery is, in effect, a continual flight from wonder." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Science kills wonder"}
+{"qoute" : "It is wrong to think that the task of physics is to find out how nature is. Physics concerns what we can say about nature." , "writer" : "Niels Bohr", "subject" : "Philosophy", "hook" : "Physics = words, not truth"}
+{"qoute" : "None of us sees what is before our feet: we all gaze at the stars." , "writer" : "Marcus Tullius Cicero", "subject" : "Philosophy", "hook" : "Stars blind us to ground"}
+{"qoute" : "What can we gain by sailing to the moon if we are not able to cross the abyss that separates us from ourselves? This is the most important of all voyages of discovery." , "writer" : "Thomas Merton", "subject" : "Philosophy", "hook" : "Moon trip useless without self"}
+{"qoute" : "We are all visitors to this time, this place. We are just passing through. Our purpose here is to observe, to learn, to grow, to love, and then we return home." , "writer" : "Australian Aboriginal Saying", "subject" : "Philosophy", "hook" : "You're just visiting"}
+{"qoute" : "The creation of a thousand forests is in one acorn." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "One acorn = thousand forests"}
+{"qoute" : "You must teach your children that the ground beneath their feet is the ashes of your grandfathers." , "writer" : "Chief Seattle", "subject" : "Philosophy", "hook" : "Ground = ancestors"}
+{"qoute" : "What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset." , "writer" : "Crowfoot", "subject" : "Philosophy", "hook" : "Life = firefly flash"}
+{"qoute" : "All life's forms are akin, yet none is like to another." , "writer" : "Johann Wolfgang von Goethe", "subject" : "Philosophy", "hook" : "All one, all unique"}
+{"qoute" : "I like to walk alone on country paths... putting each foot down on the earth in mindfulness, knowing that I walk on the wondrous earth." , "writer" : "Thich Nhat Hanh", "subject" : "Philosophy", "hook" : "Earth is wondrous"}
+{"qoute" : "We share the air with the forests and the water with the seas. As a body they and we are one." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "One body with forests"}
+{"qoute" : "Heaven is my father and Earth is my mother... All people are my brothers and sisters, and all things are my companions." , "writer" : "Zhang Zai", "subject" : "Philosophy", "hook" : "Heaven father, Earth mother"}
+{"qoute" : "A flower falls, even though we love it; and a weed grows, even though we do not love it." , "writer" : "Dogen", "subject" : "Philosophy", "hook" : "Love doesn't stop fall"}
+{"qoute" : "I only went out for a walk, and finally concluded to stay out till sundown, for going out, I found, was really going in." , "writer" : "John Muir", "subject" : "Philosophy", "hook" : "Going out = going in"}
+{"qoute" : "What is man without the beasts? If all the beasts were gone, man would die from a great loneliness of spirit." , "writer" : "Chief Seattle", "subject" : "Philosophy", "hook" : "Beasts keep you sane"}
+{"qoute" : "Humankind differs from the animals only by a little, and most people throw that away." , "writer" : "Confucius", "subject" : "Philosophy", "hook" : "You waste your humanity"}
+{"qoute" : "If your heart were right, then every creature would be a mirror of life and a book of holy teaching." , "writer" : "Thomas à Kempis", "subject" : "Philosophy", "hook" : "Clean heart = universe teacher"}
+{"qoute" : "There is nothing in which the birds differ more from man than the way in which they can build and yet leave a landscape as it was before." , "writer" : "Robert Lynd", "subject" : "Philosophy", "hook" : "Birds build without damage"}
+{"qoute" : "If dogs could talk, perhaps we would find it as hard to get along with them as we do with people." , "writer" : "Karel Čapek", "subject" : "Philosophy", "hook" : "Dogs would be annoying too"}
+{"qoute" : "Go to the ant, you lazybones; consider her ways, and be wise." , "writer" : "Proverbs", "subject" : "Philosophy", "hook" : "Ants are wiser than you"}
+{"qoute" : "Consider the lilies of the field, how they grow; they neither toil nor spin, yet I tell you, even Solomon in all his glory was not clothed like one of these." , "writer" : "Matthew", "subject" : "Philosophy", "hook" : "Lilies outdress kings"}
+{"qoute" : "I know the joy of fishes in the river through my own joy, as I go walking along the same river." , "writer" : "Zhuangzi", "subject" : "Philosophy", "hook" : "Your joy = fish joy"}
+{"qoute" : "Gaze at the beauty of the green earth. Now think." , "writer" : "Hildegard of Bingen", "subject" : "Philosophy", "hook" : "Earth beauty = think"}
+{"qoute" : "Man's heart, away from nature, becomes hard." , "writer" : "Chief Standing Bear", "subject" : "Philosophy", "hook" : "No nature = hard heart"}
+{"qoute" : "Glance at the sun. See the moon and the stars. Look at the beauty of the earth's greenings." , "writer" : "Chief Standing Bear", "subject" : "Philosophy", "hook" : "Sun, moon, stars = free"}
+{"qoute" : "Under cherry blossoms there are no strangers." , "writer" : "Issa", "subject" : "Philosophy", "hook" : "Cherry blossoms unite all"}
+{"qoute" : "Beauty is no quality in things themselves. It exists merely in the mind which contemplates them." , "writer" : "David Hume", "subject" : "Philosophy", "hook" : "Beauty is in your head"}
+{"qoute" : "Youth is happy because it has the capacity to see Beauty. Anyone who keeps the ability to see Beauty never grows old." , "writer" : "Franz Kafka", "subject" : "Philosophy", "hook" : "See beauty = stay young"}
+{"qoute" : "Forget not that the earth delights to feel your bare feet and the winds long to play with your hair." , "writer" : "Kahlil Gibran", "subject" : "Philosophy", "hook" : "Earth wants your feet"}
+{"qoute" : "Never lose an opportunity of seeing anything that is beautiful, for beauty is God's handwriting." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "Beauty = God's writing"}
+{"qoute" : "Man makes holy what he believes, as he makes beautiful what he loves." , "writer" : "Ernest Renan", "subject" : "Philosophy", "hook" : "Love makes beauty"}
+{"qoute" : "The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Truth + beauty = eternal child"}
+{"qoute" : "Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul." , "writer" : "John Muir", "subject" : "Philosophy", "hook" : "Beauty = as needed as bread"}
+{"qoute" : "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Mystery = source of all"}
+{"qoute" : "The sight of the stars makes me dream." , "writer" : "Vincent van Gogh", "subject" : "Philosophy", "hook" : "Stars = dreams"}
+{"qoute" : "Dive deep, O mind, dive deep in the ocean of God's beauty! If you descend to the uttermost depths, there you will find the gem of love." , "writer" : "Bengali Hymn", "subject" : "Philosophy", "hook" : "Deep dive = love gem"}
+{"qoute" : "Poets utter great and wise things which they do not themselves understand." , "writer" : "Socrates", "subject" : "Philosophy", "hook" : "Poets speak blind"}
+{"qoute" : "The pursuit of the perfect... is the pursuit of sweetness and light." , "writer" : "Matthew Arnold", "subject" : "Philosophy", "hook" : "Perfect = sweet + light"}
+{"qoute" : "A hero is no braver than an ordinary man, but he is braver five minutes longer." , "writer" : "Ralph Waldo Emerson", "subject" : "Courage", "hook" : "Five extra minutes = hero"}
+{"qoute" : "They are never alone that are accompanied with noble thoughts." , "writer" : "Philip Sidney", "subject" : "Philosophy", "hook" : "Noble thoughts = company"}
+{"qoute" : "Don’t waste yourself in rejection, nor bark against the bad, but chant the beauty of the good." , "writer" : "Ralph Waldo Emerson", "subject" : "Philosophy", "hook" : "Chant good, ignore bad"}
+{"qoute" : "There is not a single true work of art that has not in the end added to the inner freedom of each person who has known and loved it." , "writer" : "Albert Camus", "subject" : "Philosophy", "hook" : "Art = inner freedom"}
+{"qoute" : "What is art? It is the response of man’s creative Soul to the call of the Real." , "writer" : "Rabindranath Tagore", "subject" : "Philosophy", "hook" : "Art = soul's response"}
+{"qoute" : "Beauty of style and harmony and grace and good rhythm depends on simplicity." , "writer" : "Plato", "subject" : "Philosophy", "hook" : "Simplicity = beauty"}
+{"qoute" : "Have nothing in your house that you do not know to be useful, or do not believe to be beautiful." , "writer" : "William Morris", "subject" : "Philosophy", "hook" : "Useful or beautiful only"}
+{"qoute" : "Art is either plagiarism or revolution." , "writer" : "Paul Gauguin", "subject" : "Philosophy", "hook" : "Copy or destroy"}
+{"qoute" : "The more the marble wastes, the more the statue grows." , "writer" : "Michelangelo", "subject" : "Philosophy", "hook" : "Waste reveals statue"}
+{"qoute" : "A good traveller has no fixed plans and is not intent upon arriving. A good artist lets his intuition lead him." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "No plan = good artist"}
+{"qoute" : "Painting is the intermediate somewhat between a thought and a thing." , "writer" : "Samuel Taylor Coleridge", "subject" : "Philosophy", "hook" : "Painting = thought + thing"}
+{"qoute" : "A painting is a poem without words." , "writer" : "Horace", "subject" : "Philosophy", "hook" : "Painting = silent poem"}
+{"qoute" : "If you hear a voice within you saying, 'You are no painter', then paint by all means, and that voice will be silenced." , "writer" : "Vincent van Gogh", "subject" : "Courage", "hook" : "Paint to kill the voice"}
+{"qoute" : "There is no rule that may not be broken in the pursuit of a greater beauty." , "writer" : "Ludwig van Beethoven", "subject" : "Philosophy", "hook" : "Break rules for beauty"}
+{"qoute" : "When love and skill go together, expect a masterpiece." , "writer" : "John Ruskin", "subject" : "Philosophy", "hook" : "Love + skill = masterpiece"}
+{"qoute" : "We all know that Art is not truth. Art is a lie that makes us realize the truth." , "writer" : "Pablo Picasso", "subject" : "Philosophy", "hook" : "Art = useful lie"}
+{"qoute" : "The artist’s object is to make things not as nature makes them, but as she would make them." , "writer" : "Raphael", "subject" : "Philosophy", "hook" : "Improve on nature"}
+{"qoute" : "Truth is within the reach of a wise man. Beauty can be reached by a sensitive heart. They belong to each other." , "writer" : "Friedrich Schiller", "subject" : "Philosophy", "hook" : "Truth + beauty = couple"}
+{"qoute" : "Music! You speak to me of things which in all my endless life I have not found, and shall not find." , "writer" : "Jean Paul Richter", "subject" : "Philosophy", "hook" : "Music shows the unfindable"}
+{"qoute" : "Music is the mediator between the spiritual and the sensual life." , "writer" : "Ludwig van Beethoven", "subject" : "Philosophy", "hook" : "Music = spirit + senses"}
+{"qoute" : "Medicine to produce health must examine disease; and music, to create harmony, must investigate discord." , "writer" : "Plutarch", "subject" : "Philosophy", "hook" : "Harmony needs discord first"}
+{"qoute" : "Music is the movement of sound to reach the soul for the education of its virtue." , "writer" : "Plato", "subject" : "Philosophy", "hook" : "Music educates soul"}
+{"qoute" : "It had never occurred to me before that music and thinking are so much alike. In fact, you could say music is another way of thinking." , "writer" : "Ursula K. Le Guin", "subject" : "Philosophy", "hook" : "Music = thinking"}
+{"qoute" : "Poetry is the spontaneous overflow of powerful feelings: It takes its origin from emotion recollected in tranquillity." , "writer" : "William Wordsworth", "subject" : "Philosophy", "hook" : "Poetry = calm + emotion"}
+{"qoute" : "Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be." , "writer" : "Miguel de Cervantes", "subject" : "Philosophy", "hook" : "Seeing reality = madness"}
+{"qoute" : "Poetry is finer and more philosophical than history; for poetry expresses the universal, and history only the particular." , "writer" : "Aristotle", "subject" : "Philosophy", "hook" : "Poetry > history"}
+{"qoute" : "Poetry redeems from decay the visitations of the divinity in man; it strips the veil of familiarity from the world." , "writer" : "Percy Bysshe Shelley", "subject" : "Philosophy", "hook" : "Poetry strips the veil"}
+{"qoute" : "None merits the name of Creator but God and the poet." , "writer" : "Torquato Tasso", "subject" : "Philosophy", "hook" : "Poet = creator like God"}
+{"qoute" : "At the touch of love everyone becomes a poet." , "writer" : "Plato", "subject" : "Philosophy", "hook" : "Love turns you into poet"}
+{"qoute" : "Poets are the unacknowledged legislators of mankind." , "writer" : "Percy Bysshe Shelley", "subject" : "Philosophy", "hook" : "Poets rule in secret"}
+{"qoute" : "To have great poets, there must be great audiences." , "writer" : "Walt Whitman", "subject" : "Philosophy", "hook" : "Great poets need great fans"}
+{"qoute" : "We humans have existed in our present form for about a hundred thousand years. I believe that if... the human mind had been primarily controlled by anger and hatred, our overall population would have decreased." , "writer" : "14th Dalai Lama", "subject" : "Philosophy", "hook" : "Love keeps us alive"}
+{"qoute" : "Injustice, poverty, slavery, ignorance – these may be cured by reform or revolution. But men do not live only by fighting evils. They live by positive goals." , "writer" : "Isaiah Berlin", "subject" : "Politics", "hook" : "Fighting evil not enough"}
+{"qoute" : "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change." , "writer" : "Charles Darwin", "subject" : "Philosophy", "hook" : "Change = survival"}
+{"qoute" : "It would indeed be a tragedy if the history of the human race proved to be nothing more than the story of an ape playing with a box of matches on a petroleum dump." , "writer" : "David Ormsby-Gore", "subject" : "Philosophy", "hook" : "Human = ape with matches?"}
+{"qoute" : "The problems that exist in the world today cannot be solved by the level of thinking that created them." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Old thinking won't solve"}
+{"qoute" : "It is the part of wise men to preserve themselves today for tomorrow, and not risk all in one day." , "writer" : "Miguel de Cervantes", "subject" : "Philosophy", "hook" : "Save for tomorrow"}
+{"qoute" : "What does not grow, declines." , "writer" : "Rabbi Hillel", "subject" : "Philosophy", "hook" : "No growth = death"}
+{"qoute" : "Governing a great people is like cooking a small fish. It should not be overdone." , "writer" : "Laozi", "subject" : "Politics", "hook" : "Govern like cooking fish"}
+{"qoute" : "I believe that every right implies a responsibility; every opportunity, an obligation; every possession, a duty." , "writer" : "John D. Rockefeller Jr.", "subject" : "Politics", "hook" : "Rights = duties"}
+{"qoute" : "You will be truly free when you learn to be impartial and undeterred from following the dictates of your conscience." , "writer" : "Ancient Egyptian Temple Inscription", "subject" : "Politics", "hook" : "Conscience = freedom"}
+{"qoute" : "What difference does it make to the dead, the orphans, and the homeless, whether the mad destruction is wrought under the name of totalitarianism or the holy name of liberty or democracy?" , "writer" : "Mahatma Gandhi", "subject" : "Politics", "hook" : "Victims don't care the name"}
+{"qoute" : "The pursuit of politics is religion, morality and poetry, all in one." , "writer" : "Madame de Staël", "subject" : "Politics", "hook" : "Politics = religion + poetry"}
+{"qoute" : "When a man assumes a public trust, he should consider himself as public property." , "writer" : "Thomas Jefferson", "subject" : "Politics", "hook" : "Public servant = public property"}
+{"qoute" : "If you are neutral in situations of injustice, you have chosen the side of the oppressor." , "writer" : "Desmond Tutu", "subject" : "Politics", "hook" : "Neutral = siding with oppressor"}
+{"qoute" : "In a country well governed, poverty is something to be ashamed of. In a country ill governed, wealth is something to be ashamed of." , "writer" : "Confucius", "subject" : "Politics", "hook" : "Shame depends on government"}
+{"qoute" : "The philosophers have only interpreted the world: the point is to change it." , "writer" : "Karl Marx", "subject" : "Politics", "hook" : "Stop thinking, start changing"}
+{"qoute" : "Nearly all men can stand adversity, but if you want to test a man’s character, give him power." , "writer" : "Abraham Lincoln", "subject" : "Politics", "hook" : "Power reveals character"}
+{"qoute" : "We cannot, by total reliance on law, escape the duty to judge right and wrong... There are good laws and there are occasionally bad laws, and it conforms to the highest traditions of a free society to offer resistance to bad laws." , "writer" : "Alexander M. Bickel", "subject" : "Politics", "hook" : "Resist bad laws"}
+{"qoute" : "It is every man’s obligation to put back into the world at least the equivalent of what he takes out of it." , "writer" : "Albert Einstein", "subject" : "Philosophy", "hook" : "Give back what you take"}
+{"qoute" : "Justice is the ligament which holds civilized beings and civilized nations together." , "writer" : "Daniel Webster", "subject" : "Politics", "hook" : "Justice = glue of society"}
+{"qoute" : "'I must do something' always solves more problems than 'Something must be done.'" , "writer" : "Anonymous Modern Saying", "subject" : "Courage", "hook" : "I must do > something must"}
+{"qoute" : "People often say that, in a democracy, decisions are made by a majority of the people. Of course, that is not true. Decisions are made by a majority of those who make themselves heard and who vote." , "writer" : "Walter H. Judd", "subject" : "Politics", "hook" : "Silent majority loses"}
+{"qoute" : "No snowflake in an avalanche ever feels responsible." , "writer" : "Voltaire", "subject" : "Philosophy", "hook" : "Each snowflake denies guilt"}
+{"qoute" : "Lord, make me an instrument of thy peace. Where there is hatred, let me sow love." , "writer" : "St Francis of Assisi", "subject" : "Politics", "hook" : "Sow love in hate"}
+{"qoute" : "The way of the warrior has been misunderstood as a means to kill and destroy others... The true way of the warrior is to prevent slaughter – it is the art of peace, the power of love." , "writer" : "Morihei Ueshiba", "subject" : "Politics", "hook" : "Warrior = peace maker"}
+{"qoute" : "So you see, my sons, as long as you remain united, you are a match for anything. But differ and be divided, and you are undone." , "writer" : "Aesop", "subject" : "Politics", "hook" : "United = strong, divided = dead"}
+{"qoute" : "For me the most unfair peace is preferable to the most righteous war." , "writer" : "Marcus Tullius Cicero", "subject" : "Politics", "hook" : "Unfair peace > righteous war"}
+{"qoute" : "We do not seek peace in order to be at war, but we go to war that we may have peace." , "writer" : "St Augustine of Hippo", "subject" : "Politics", "hook" : "Fight for peace"}
+{"qoute" : "It is not by going out for a demonstration against nuclear missiles that we can bring about peace. It is with our capacity of smiling, breathing, and being peace that we can make peace." , "writer" : "Thich Nhat Hanh", "subject" : "Politics", "hook" : "Be peace to make peace"}
+{"qoute" : "Adapt yourself to the things among which your lot has been cast, and love sincerely the fellow creatures with whom destiny has ordained that you shall live." , "writer" : "Marcus Aurelius", "subject" : "Philosophy", "hook" : "Love your fate"}
+{"qoute" : "Nonviolence is the supreme law." , "writer" : "Hindu Saying", "subject" : "Politics", "hook" : "Nonviolence = highest law"}
+{"qoute" : "Peace... demands greater heroism than war. It demands greater fidelity to the truth and a much more perfect purity of conscience." , "writer" : "Thomas Merton", "subject" : "Courage", "hook" : "Peace needs more courage than war"}
+{"qoute" : "A peace that comes from fear and not from the heart is the opposite of peace." , "writer" : "Gersonides", "subject" : "Politics", "hook" : "Fear peace = no peace"}
+{"qoute" : "The practice of peace and reconciliation is one of the most vital and artistic of human actions." , "writer" : "Thich Nhat Hanh", "subject" : "Politics", "hook" : "Peace = art"}
+{"qoute" : "There will one day spring from the brain of science a machine or force so fearful... that even man... will be appalled, and so abandon war forever." , "writer" : "Thomas Edison", "subject" : "Politics", "hook" : "Fearful weapon = peace?"}
+{"qoute" : "The more we sweat in peace, the less we bleed in war." , "writer" : "Vijaya Lakshmi Pandit", "subject" : "Politics", "hook" : "Sweat in peace = no bleed"}
+{"qoute" : "There are some defeats more triumphant than victories." , "writer" : "Michel de Montaigne", "subject" : "Courage", "hook" : "Losing can be winning"}
+{"qoute" : "Whatever house you enter, first say, 'Peace to this house.'" , "writer" : "Luke 10.5", "subject" : "Politics", "hook" : "Peace first"}
+{"qoute" : "When you call yourself an Indian or a Muslim or a Christian or a European, or anything else, you are being violent. Because you are separating yourself from the rest of mankind." , "writer" : "Jiddu Krishnamurti", "subject" : "Politics", "hook" : "Labels = violence"}
+{"qoute" : "Peace, like charity, begins at home." , "writer" : "Franklin D. Roosevelt", "subject" : "Politics", "hook" : "Start peace at home"}
+{"qoute" : "Peace is not the absence of war: it is a virtue; a state of mind; a disposition for benevolence... and justice." , "writer" : "Benedict de Spinoza", "subject" : "Politics", "hook" : "Peace = virtue, not silence"}
+{"qoute" : "A feeling of superiority is a sign of failure." , "writer" : "Yoshida Kenko", "subject" : "Philosophy", "hook" : "Feeling superior = failure"}
+{"qoute" : "The defect of equality is that we only desire it with our superiors." , "writer" : "Henri Becque", "subject" : "Politics", "hook" : "You want equality only upward"}
+{"qoute" : "Democracy is a charming form of government, full of variety and disorder, and dealing with all on an equal footing, whether in reality they be equals or not." , "writer" : "Plato", "subject" : "Politics", "hook" : "Democracy = charming chaos"}
+{"qoute" : "Once the game is over, the king and the pawn go back in the same box." , "writer" : "Italian Proverb", "subject" : "Philosophy", "hook" : "Death equalizes all"}
+{"qoute" : "No man is above the law, and no man is below it." , "writer" : "Theodore Roosevelt", "subject" : "Politics", "hook" : "Law covers everyone"}
+{"qoute" : "I am a human being. Nothing human is alien to me." , "writer" : "Terence", "subject" : "Philosophy", "hook" : "All humanity is in you"}
+{"qoute" : "The difference in the world between treating people equally and attempting to make them equal." , "writer" : "Friedrich August Hayek", "subject" : "Politics", "hook" : "Treat equal vs make equal"}
+{"qoute" : "Life is one big meal, and we are each other’s eaten. Forgetting this, we eat one another." , "writer" : "The Buddha", "subject" : "Philosophy", "hook" : "We eat each other"}
+{"qoute" : "Years ago I recognized my kinship with all living things... while there is a lower class, I am in it; while there is a criminal element, I am of it; while there is a soul in prison, I am not free." , "writer" : "Eugene Debs", "subject" : "Politics", "hook" : "One imprisoned = all imprisoned"}
+{"qoute" : "Every man is to be respected as an absolute end in himself; and it is a crime against the dignity that belongs to him as a human being to use him as a mere means." , "writer" : "Immanuel Kant", "subject" : "Philosophy", "hook" : "People are ends, not tools"}
+{"qoute" : "There is something wrong in a government where they who do the most have the least... when honesty wears a rag, and rascality a robe." , "writer" : "Robert G. Ingersoll", "subject" : "Politics", "hook" : "Honesty rags = broken system"}
+{"qoute" : "What is the use of a house if you haven't got a tolerable planet to put it on?" , "writer" : "Henry David Thoreau", "subject" : "Philosophy", "hook" : "House useless without planet"}
+{"qoute" : "I am the heat of your hearth... do me no harm." , "writer" : "Traditional Portuguese Prayer", "subject" : "Philosophy", "hook" : "Tree = your home"}
+{"qoute" : "We can do without any article of luxury we have never had; but, when once obtained, it is not in human nature to surrender it voluntarily." , "writer" : "Samuel Chandler Haliburton", "subject" : "Philosophy", "hook" : "Once had, never leave"}
+{"qoute" : "When a tree falls there is no shade." , "writer" : "Laozi", "subject" : "Philosophy", "hook" : "Fallen tree = no shade"}
+{"qoute" : "A true conservationist is a man who knows that the world is not given by his fathers but borrowed from his children." , "writer" : "J.J. Audubon", "subject" : "Philosophy", "hook" : "Earth borrowed from kids"}
+{"qoute" : "Modern man often talks of the battle with nature, forgetting that if he ever won the battle, he would be on the losing side." , "writer" : "Ernst F. Schumacher", "subject" : "Philosophy", "hook" : "Winning vs nature = losing"}
+{"qoute" : "The world owes you nothing. It was here first." , "writer" : "Mark Twain", "subject" : "Philosophy", "hook" : "World owes you zero"}
+{"qoute" : "I detest what you write, but I would give my life to make it possible for you to continue to write." , "writer" : "Voltaire", "subject" : "Politics", "hook" : "Defend speech you hate"}
+{"qoute" : "Freedom suppressed, then regained, bites with keener fangs than freedom never endangered." , "writer" : "Marcus Tullius Cicero", "subject" : "Politics", "hook" : "Lost freedom hurts more"}
+{"qoute" : "Freedom and love go together. Love is not a reaction. If I love you because you love me, that is mere trade... it is not love." , "writer" : "Jiddu Krishnamurti", "subject" : "Philosophy", "hook" : "Conditional love = trade"}
+{"qoute" : "Enlighten the people, generally, and tyranny and oppressions of body and mind will vanish like spirits at the dawn of day." , "writer" : "Thomas Jefferson", "subject" : "Politics", "hook" : "Enlightenment kills tyranny"}
+{"qoute" : "He that is kind is free, though he be a slave; he that is cruel is a slave, though he be a king." , "writer" : "St Augustine of Hippo", "subject" : "Politics", "hook" : "Kindness = freedom"}
+{"qoute" : "One should never put on one’s best trousers to go out to fight for freedom." , "writer" : "Henrik Ibsen", "subject" : "Courage", "hook" : "Don't dress up for freedom fight"}
+{"qoute" : "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility." , "writer" : "Sigmund Freud", "subject" : "Politics", "hook" : "You fear freedom"}
+{"qoute" : "Necessity is the plea for every infringement of human freedom. It is the argument of tyrants; it is the creed of slaves." , "writer" : "William Pitt", "subject" : "Politics", "hook" : "Necessity = tyrant's excuse"}
+{"qoute" : "The freedom of all is essential to my freedom." , "writer" : "Mikhail Bakunin", "subject" : "Politics", "hook" : "All free or none"}
+{"qoute" : "Freedom lies only in our innate capacity to choose between different sorts of bondage." , "writer" : "Sri Madhava Ashish", "subject" : "Philosophy", "hook" : "Choose your chains = freedom"}
+{"qoute" : "Man is born free, and everywhere he is in chains." , "writer" : "Jean-Jacques Rousseau", "subject" : "Politics", "hook" : "Born free, live chained"}
+{"qoute" : "Freedom for supporters of the government only... is no freedom at all. Freedom is always freedom for the man who thinks differently." , "writer" : "Rosa Luxemburg", "subject" : "Politics", "hook" : "Freedom only for dissenters"}
+{"qoute" : "Where would our divine freedom be if external nature protected us like helpless children? No, external nature must deny us everything so that the happiness we achieve is wholly our own independent creation." , "writer" : "Rudolf Steiner", "subject" : "Philosophy", "hook" : "Nature's denial creates freedom"}
+{"qoute" : "Who then is free? The one who wisely is lord of himself, terrified by neither poverty nor death nor captivity; who is strong in resisting his appetites... and complete in himself." , "writer" : "Horace", "subject" : "Courage", "hook" : "Self-mastery = freedom"}
